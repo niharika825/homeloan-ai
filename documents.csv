@@ -1,0 +1,2101 @@
+application_id,doc_type,submitted,name_on_doc,extracted_monthly_income,extracted_avg_monthly_credit,scan_quality
+HL2025-5001,PAN card,True,Ritu Mehta,,,Good
+HL2025-5001,Aadhaar card,True,Ritu Mehta,,,Good
+HL2025-5001,Income proof,True,Ritu Mehta,84021.0,,Good
+HL2025-5001,Bank statements (6 months),True,Ritu Mehta,,75672.0,Good
+HL2025-5001,Sale agreement,False,,,,
+HL2025-5001,Property title deeds,True,Ritu Mehta,,,Good
+HL2025-5001,Approved building plan,True,Ritu Mehta,,,Good
+HL2025-5002,PAN card,True,Aditya Pillai,,,Good
+HL2025-5002,Aadhaar card,True,Aditya Pillai,,,Good
+HL2025-5002,Income proof,True,Aditya Pillai,89218.0,,Good
+HL2025-5002,Bank statements (6 months),True,Aditya Pillai,,83784.0,Good
+HL2025-5002,Sale agreement,True,Aditya Pillai,,,Good
+HL2025-5002,Property title deeds,True,Aditya Pillai,,,Good
+HL2025-5002,Approved building plan,True,Aditya Pillai,,,Good
+HL2025-5003,PAN card,True,Lakshmi Sharma,,,Good
+HL2025-5003,Aadhaar card,True,Lakshmi Sharma,,,Good
+HL2025-5003,Income proof,True,Lakshmi Sharma,57453.0,,Good
+HL2025-5003,Bank statements (6 months),True,Lakshmi Sharma,,61535.0,Good
+HL2025-5003,Sale agreement,True,Lakshmi Sharma,,,Good
+HL2025-5003,Property title deeds,True,Lakshmi Sharma,,,Good
+HL2025-5003,Approved building plan,True,Lakshmi Sharma,,,Good
+HL2025-5004,PAN card,True,Nisha Khan,,,Good
+HL2025-5004,Aadhaar card,True,Nisha Khan,,,Good
+HL2025-5004,Income proof,True,Nisha Khan,142397.0,,Good
+HL2025-5004,Bank statements (6 months),True,Nisha Khan,,138926.0,Good
+HL2025-5004,Sale agreement,False,,,,
+HL2025-5004,Property title deeds,True,Nisha Khan,,,Good
+HL2025-5004,Approved building plan,True,Nisha Khan,,,Good
+HL2025-5005,PAN card,True,Rohan Reddy,,,Good
+HL2025-5005,Aadhaar card,True,Rohan Reddy,,,Good
+HL2025-5005,Income proof,True,Rohan Reddy,50800.0,,Good
+HL2025-5005,Bank statements (6 months),True,Rohan Reddy,,51795.0,Good
+HL2025-5005,Sale agreement,True,Rohan Reddy,,,Good
+HL2025-5005,Property title deeds,True,Rohan Reddy,,,Good
+HL2025-5005,Approved building plan,True,Rohan Reddy,,,Good
+HL2025-5006,PAN card,True,Ritu Bose,,,Good
+HL2025-5006,Aadhaar card,True,Ritu Bose,,,Good
+HL2025-5006,Income proof,False,,,,
+HL2025-5006,Bank statements (6 months),True,Ritu Bose,,47351.0,Good
+HL2025-5006,Sale agreement,True,Ritu Bose,,,Good
+HL2025-5006,Property title deeds,True,Ritu Bose,,,Good
+HL2025-5006,Approved building plan,True,Ritu Bose,,,Good
+HL2025-5007,PAN card,True,Pooja Singh,,,Good
+HL2025-5007,Aadhaar card,True,Pooja Singh,,,Good
+HL2025-5007,Income proof,True,Pooja Singh,74182.0,,Good
+HL2025-5007,Bank statements (6 months),True,Pooja Singh,,73298.0,Good
+HL2025-5007,Sale agreement,True,Pooja Singh,,,Good
+HL2025-5007,Property title deeds,True,Pooja Singh,,,Good
+HL2025-5007,Approved building plan,True,Pooja Singh,,,Good
+HL2025-5008,PAN card,True,Swati Patel,,,Good
+HL2025-5008,Aadhaar card,True,Swati Patel,,,Good
+HL2025-5008,Income proof,True,Swati Patel,27312.0,,Good
+HL2025-5008,Bank statements (6 months),True,Swati Patel,,26360.0,Good
+HL2025-5008,Sale agreement,True,Swati Patel,,,Good
+HL2025-5008,Property title deeds,True,Swati Patel,,,Good
+HL2025-5008,Approved building plan,True,Swati Patel,,,Good
+HL2025-5009,PAN card,True,Priya Singh,,,Good
+HL2025-5009,Aadhaar card,True,Priya Singh,,,Good
+HL2025-5009,Income proof,True,Priya Singh,38866.0,,Good
+HL2025-5009,Bank statements (6 months),True,Priya Singh,,40043.0,Good
+HL2025-5009,Sale agreement,True,Priya Singh,,,Good
+HL2025-5009,Property title deeds,True,Priya Singh,,,Good
+HL2025-5009,Approved building plan,True,Priya Singh,,,Good
+HL2025-5010,PAN card,True,Suresh Bose,,,Good
+HL2025-5010,Aadhaar card,True,Suresh Bose,,,Good
+HL2025-5010,Income proof,True,Suresh Bose,40927.0,,Good
+HL2025-5010,Bank statements (6 months),True,Suresh Bose,,43974.0,Good
+HL2025-5010,Sale agreement,True,Suresh Bose,,,Good
+HL2025-5010,Property title deeds,True,Suresh Bose,,,Good
+HL2025-5010,Approved building plan,True,Suresh Bose,,,Good
+HL2025-5011,PAN card,True,Manish Iyer,,,Good
+HL2025-5011,Aadhaar card,True,Manish Nair,,,Good
+HL2025-5011,Income proof,True,Manish Iyer,140523.0,,Good
+HL2025-5011,Bank statements (6 months),True,Manish Iyer,,144498.0,Good
+HL2025-5011,Sale agreement,True,Manish Iyer,,,Good
+HL2025-5011,Property title deeds,True,Manish Iyer,,,Good
+HL2025-5011,Approved building plan,True,Manish Iyer,,,Good
+HL2025-5012,PAN card,True,Imran Chopra,,,Good
+HL2025-5012,Aadhaar card,True,Imran Chopra,,,Good
+HL2025-5012,Income proof,True,Imran Chopra,47880.0,,Good
+HL2025-5012,Bank statements (6 months),True,Imran Chopra,,63367.0,Good
+HL2025-5012,Sale agreement,True,Imran Chopra,,,Good
+HL2025-5012,Property title deeds,True,Imran Chopra,,,Good
+HL2025-5012,Approved building plan,True,Imran Chopra,,,Good
+HL2025-5013,PAN card,True,Neha Mehta,,,Good
+HL2025-5013,Aadhaar card,True,Neha Mehta,,,Good
+HL2025-5013,Income proof,True,Neha Mehta,49924.0,,Good
+HL2025-5013,Bank statements (6 months),True,Neha Mehta,,52521.0,Good
+HL2025-5013,Sale agreement,True,Neha Mehta,,,Good
+HL2025-5013,Property title deeds,True,Neha Mehta,,,Good
+HL2025-5013,Approved building plan,True,Neha Mehta,,,Good
+HL2025-5014,PAN card,True,Fatima Chopra,,,Good
+HL2025-5014,Aadhaar card,True,Fatima Chopra,,,Good
+HL2025-5014,Income proof,True,Fatima Chopra,36736.0,,Good
+HL2025-5014,Bank statements (6 months),True,Fatima Chopra,,34138.0,Good
+HL2025-5014,Sale agreement,True,Fatima Chopra,,,Good
+HL2025-5014,Property title deeds,True,Fatima Chopra,,,Good
+HL2025-5014,Approved building plan,True,Fatima Chopra,,,Good
+HL2025-5015,PAN card,True,Lakshmi Reddy,,,Good
+HL2025-5015,Aadhaar card,True,Lakshmi Reddy,,,Good
+HL2025-5015,Income proof,True,Lakshmi Reddy,49445.0,,Good
+HL2025-5015,Bank statements (6 months),True,Lakshmi Reddy,,44906.0,Good
+HL2025-5015,Sale agreement,True,Lakshmi Reddy,,,Good
+HL2025-5015,Property title deeds,True,Lakshmi Reddy,,,Good
+HL2025-5015,Approved building plan,True,Lakshmi Reddy,,,Good
+HL2025-5016,PAN card,True,Sanjay Patel,,,Good
+HL2025-5016,Aadhaar card,True,Sanjay Patel,,,Good
+HL2025-5016,Income proof,True,Sanjay Patel,48966.0,,Good
+HL2025-5016,Bank statements (6 months),True,Sanjay Patel,,51155.0,Good
+HL2025-5016,Sale agreement,True,Sanjay Patel,,,Good
+HL2025-5016,Property title deeds,True,Sanjay Patel,,,Good
+HL2025-5016,Approved building plan,True,Sanjay Patel,,,Good
+HL2025-5017,PAN card,True,Aarav Mehta,,,Good
+HL2025-5017,Aadhaar card,True,Aarav Iyer,,,Good
+HL2025-5017,Income proof,True,Aarav Mehta,63261.0,,Good
+HL2025-5017,Bank statements (6 months),True,Aarav Mehta,,65755.0,Good
+HL2025-5017,Sale agreement,True,Aarav Mehta,,,Good
+HL2025-5017,Property title deeds,True,Aarav Mehta,,,Good
+HL2025-5017,Approved building plan,True,Aarav Mehta,,,Good
+HL2025-5018,PAN card,True,Lakshmi Singh,,,Good
+HL2025-5018,Aadhaar card,True,Lakshmi Shetty,,,Good
+HL2025-5018,Income proof,True,Lakshmi Singh,100308.0,,Good
+HL2025-5018,Bank statements (6 months),True,Lakshmi Singh,,103869.0,Good
+HL2025-5018,Sale agreement,True,Lakshmi Singh,,,Good
+HL2025-5018,Property title deeds,True,Lakshmi Singh,,,Good
+HL2025-5018,Approved building plan,True,Lakshmi Singh,,,Good
+HL2025-5019,PAN card,True,Shweta Sharma,,,Good
+HL2025-5019,Aadhaar card,True,Shweta Sharma,,,Good
+HL2025-5019,Income proof,True,Shweta Sharma,72480.0,,Good
+HL2025-5019,Bank statements (6 months),True,Shweta Sharma,,66149.0,Good
+HL2025-5019,Sale agreement,True,Shweta Sharma,,,Good
+HL2025-5019,Property title deeds,True,Shweta Sharma,,,Good
+HL2025-5019,Approved building plan,True,Shweta Sharma,,,Good
+HL2025-5020,PAN card,True,Ravi Das,,,Good
+HL2025-5020,Aadhaar card,True,Ravi Das,,,Good
+HL2025-5020,Income proof,False,,,,
+HL2025-5020,Bank statements (6 months),True,Ravi Das,,35559.0,Good
+HL2025-5020,Sale agreement,True,Ravi Das,,,Good
+HL2025-5020,Property title deeds,True,Ravi Das,,,Good
+HL2025-5020,Approved building plan,True,Ravi Das,,,Good
+HL2025-5021,PAN card,True,Ritu Chopra,,,Good
+HL2025-5021,Aadhaar card,True,Ritu Chopra,,,Good
+HL2025-5021,Income proof,True,Ritu Chopra,62789.0,,Good
+HL2025-5021,Bank statements (6 months),True,Ritu Chopra,,102667.0,Good
+HL2025-5021,Sale agreement,True,Ritu Chopra,,,Good
+HL2025-5021,Property title deeds,True,Ritu Chopra,,,Good
+HL2025-5021,Approved building plan,True,Ritu Chopra,,,Good
+HL2025-5022,PAN card,True,Suresh Mehta,,,Good
+HL2025-5022,Aadhaar card,True,Suresh Mehta,,,Good
+HL2025-5022,Income proof,True,Suresh Mehta,63114.0,,Good
+HL2025-5022,Bank statements (6 months),True,Suresh Mehta,,66357.0,Good
+HL2025-5022,Sale agreement,True,Suresh Mehta,,,Poor
+HL2025-5022,Property title deeds,True,Suresh Mehta,,,Good
+HL2025-5022,Approved building plan,True,Suresh Mehta,,,Good
+HL2025-5023,PAN card,True,Deepak Das,,,Good
+HL2025-5023,Aadhaar card,True,Deepak Das,,,Good
+HL2025-5023,Income proof,True,Deepak Das,20651.0,,Good
+HL2025-5023,Bank statements (6 months),True,Deepak Das,,31963.0,Good
+HL2025-5023,Sale agreement,True,Deepak Das,,,Good
+HL2025-5023,Property title deeds,True,Deepak Das,,,Good
+HL2025-5023,Approved building plan,True,Deepak Das,,,Good
+HL2025-5024,PAN card,True,Manish Gupta,,,Good
+HL2025-5024,Aadhaar card,True,Manish Gupta,,,Good
+HL2025-5024,Income proof,True,Manish Gupta,51577.0,,Good
+HL2025-5024,Bank statements (6 months),True,Manish Gupta,,51254.0,Good
+HL2025-5024,Sale agreement,True,Manish Gupta,,,Good
+HL2025-5024,Property title deeds,True,Manish Gupta,,,Good
+HL2025-5024,Approved building plan,True,Manish Gupta,,,Good
+HL2025-5025,PAN card,True,Aarav Reddy,,,Good
+HL2025-5025,Aadhaar card,True,Aarav Reddy,,,Good
+HL2025-5025,Income proof,True,Aarav Reddy,77826.0,,Good
+HL2025-5025,Bank statements (6 months),True,Aarav Reddy,,74965.0,Good
+HL2025-5025,Sale agreement,True,Aarav Reddy,,,Good
+HL2025-5025,Property title deeds,True,Aarav Reddy,,,Good
+HL2025-5025,Approved building plan,True,Aarav Reddy,,,Good
+HL2025-5026,PAN card,True,Fatima Gupta,,,Good
+HL2025-5026,Aadhaar card,False,,,,
+HL2025-5026,Income proof,True,Fatima Gupta,77584.0,,Good
+HL2025-5026,Bank statements (6 months),True,Fatima Gupta,,83038.0,Good
+HL2025-5026,Sale agreement,True,Fatima Gupta,,,Good
+HL2025-5026,Property title deeds,True,Fatima Gupta,,,Good
+HL2025-5026,Approved building plan,True,Fatima Gupta,,,Good
+HL2025-5027,PAN card,True,Manish Chopra,,,Good
+HL2025-5027,Aadhaar card,True,Manish Shetty,,,Good
+HL2025-5027,Income proof,True,Manish Chopra,47776.0,,Good
+HL2025-5027,Bank statements (6 months),True,Manish Chopra,,44399.0,Good
+HL2025-5027,Sale agreement,True,Manish Chopra,,,Good
+HL2025-5027,Property title deeds,True,Manish Chopra,,,Good
+HL2025-5027,Approved building plan,True,Manish Chopra,,,Good
+HL2025-5028,PAN card,True,Kavya Bose,,,Good
+HL2025-5028,Aadhaar card,True,Kavya Bose,,,Good
+HL2025-5028,Income proof,True,Kavya Bose,112023.0,,Good
+HL2025-5028,Bank statements (6 months),True,Kavya Bose,,102648.0,Good
+HL2025-5028,Sale agreement,True,Kavya Bose,,,Good
+HL2025-5028,Property title deeds,True,Kavya Bose,,,Good
+HL2025-5028,Approved building plan,True,Kavya Bose,,,Good
+HL2025-5029,PAN card,True,Manish Singh,,,Good
+HL2025-5029,Aadhaar card,True,Manish Singh,,,Good
+HL2025-5029,Income proof,True,Manish Singh,42274.0,,Good
+HL2025-5029,Bank statements (6 months),True,Manish Singh,,39240.0,Good
+HL2025-5029,Sale agreement,True,Manish Singh,,,Good
+HL2025-5029,Property title deeds,True,Manish Singh,,,Good
+HL2025-5029,Approved building plan,True,Manish Singh,,,Good
+HL2025-5030,PAN card,True,Manish Reddy,,,Good
+HL2025-5030,Aadhaar card,True,Manish Reddy,,,Good
+HL2025-5030,Income proof,True,Manish Reddy,77176.0,,Good
+HL2025-5030,Bank statements (6 months),True,Manish Reddy,,78333.0,Good
+HL2025-5030,Sale agreement,True,Manish Reddy,,,Good
+HL2025-5030,Property title deeds,True,Manish Reddy,,,Good
+HL2025-5030,Approved building plan,True,Manish Reddy,,,Good
+HL2025-5031,PAN card,True,Aditya Gupta,,,Good
+HL2025-5031,Aadhaar card,True,Aditya Gupta,,,Good
+HL2025-5031,Income proof,True,Aditya Gupta,52051.0,,Good
+HL2025-5031,Bank statements (6 months),True,Aditya Gupta,,56235.0,Good
+HL2025-5031,Sale agreement,True,Aditya Gupta,,,Good
+HL2025-5031,Property title deeds,True,Aditya Gupta,,,Good
+HL2025-5031,Approved building plan,True,Aditya Gupta,,,Good
+HL2025-5032,PAN card,True,Suresh Menon,,,Good
+HL2025-5032,Aadhaar card,True,Suresh Menon,,,Good
+HL2025-5032,Income proof,True,Suresh Menon,37035.0,,Good
+HL2025-5032,Bank statements (6 months),True,Suresh Menon,,35807.0,Good
+HL2025-5032,Sale agreement,True,Suresh Menon,,,Good
+HL2025-5032,Property title deeds,True,Suresh Menon,,,Good
+HL2025-5032,Approved building plan,True,Suresh Menon,,,Good
+HL2025-5033,PAN card,True,Arjun Verma,,,Good
+HL2025-5033,Aadhaar card,True,Arjun Verma,,,Good
+HL2025-5033,Income proof,True,Arjun Verma,97281.0,,Good
+HL2025-5033,Bank statements (6 months),True,Arjun Verma,,105600.0,Good
+HL2025-5033,Sale agreement,True,Arjun Verma,,,Good
+HL2025-5033,Property title deeds,True,Arjun Verma,,,Good
+HL2025-5033,Approved building plan,True,Arjun Verma,,,Good
+HL2025-5034,PAN card,True,Pooja Shetty,,,Good
+HL2025-5034,Aadhaar card,True,Pooja Shetty,,,Good
+HL2025-5034,Income proof,True,Pooja Shetty,40068.0,,Good
+HL2025-5034,Bank statements (6 months),True,Pooja Shetty,,64251.0,Good
+HL2025-5034,Sale agreement,True,Pooja Shetty,,,Good
+HL2025-5034,Property title deeds,True,Pooja Shetty,,,Good
+HL2025-5034,Approved building plan,True,Pooja Shetty,,,Good
+HL2025-5035,PAN card,True,Shweta Rao,,,Poor
+HL2025-5035,Aadhaar card,True,Shweta Rao,,,Good
+HL2025-5035,Income proof,True,Shweta Rao,50094.0,,Good
+HL2025-5035,Bank statements (6 months),True,Shweta Rao,,80593.0,Good
+HL2025-5035,Sale agreement,True,Shweta Rao,,,Good
+HL2025-5035,Property title deeds,True,Shweta Rao,,,Good
+HL2025-5035,Approved building plan,True,Shweta Rao,,,Good
+HL2025-5036,PAN card,True,Sanjay Gupta,,,Good
+HL2025-5036,Aadhaar card,True,Sanjay Gupta,,,Good
+HL2025-5036,Income proof,True,Sanjay Gupta,77719.0,,Good
+HL2025-5036,Bank statements (6 months),True,Sanjay Gupta,,72815.0,Good
+HL2025-5036,Sale agreement,True,Sanjay Gupta,,,Good
+HL2025-5036,Property title deeds,True,Sanjay Gupta,,,Good
+HL2025-5036,Approved building plan,True,Sanjay Gupta,,,Good
+HL2025-5037,PAN card,True,Kavya Pillai,,,Good
+HL2025-5037,Aadhaar card,True,Kavya Pillai,,,Good
+HL2025-5037,Income proof,True,Kavya Pillai,48433.0,,Good
+HL2025-5037,Bank statements (6 months),True,Kavya Pillai,,59104.0,Good
+HL2025-5037,Sale agreement,True,Kavya Pillai,,,Good
+HL2025-5037,Property title deeds,True,Kavya Pillai,,,Good
+HL2025-5037,Approved building plan,True,Kavya Pillai,,,Good
+HL2025-5038,PAN card,True,Manish Mehta,,,Good
+HL2025-5038,Aadhaar card,True,Manish Mehta,,,Good
+HL2025-5038,Income proof,True,Manish Mehta,25296.0,,Good
+HL2025-5038,Bank statements (6 months),True,Manish Mehta,,27192.0,Good
+HL2025-5038,Sale agreement,True,Manish Mehta,,,Good
+HL2025-5038,Property title deeds,True,Manish Mehta,,,Good
+HL2025-5038,Approved building plan,False,,,,
+HL2025-5039,PAN card,True,Aarav Bose,,,Good
+HL2025-5039,Aadhaar card,True,Aarav Bose,,,Good
+HL2025-5039,Income proof,True,Aarav Bose,70100.0,,Good
+HL2025-5039,Bank statements (6 months),True,Aarav Bose,,63256.0,Good
+HL2025-5039,Sale agreement,True,Aarav Bose,,,Good
+HL2025-5039,Property title deeds,True,Aarav Bose,,,Good
+HL2025-5039,Approved building plan,False,,,,
+HL2025-5040,PAN card,True,Karthik Kulkarni,,,Good
+HL2025-5040,Aadhaar card,True,Karthik Rao,,,Good
+HL2025-5040,Income proof,True,Karthik Kulkarni,69639.0,,Good
+HL2025-5040,Bank statements (6 months),True,Karthik Kulkarni,,66459.0,Good
+HL2025-5040,Sale agreement,True,Karthik Kulkarni,,,Good
+HL2025-5040,Property title deeds,True,Karthik Kulkarni,,,Good
+HL2025-5040,Approved building plan,True,Karthik Kulkarni,,,Good
+HL2025-5041,PAN card,True,Deepak Das,,,Poor
+HL2025-5041,Aadhaar card,True,Deepak Das,,,Good
+HL2025-5041,Income proof,True,Deepak Das,57951.0,,Good
+HL2025-5041,Bank statements (6 months),False,,,,
+HL2025-5041,Sale agreement,True,Deepak Das,,,Good
+HL2025-5041,Property title deeds,True,Deepak Das,,,Good
+HL2025-5041,Approved building plan,True,Deepak Das,,,Good
+HL2025-5042,PAN card,True,Ravi Nair,,,Good
+HL2025-5042,Aadhaar card,True,Ravi Nair,,,Good
+HL2025-5042,Income proof,False,,,,
+HL2025-5042,Bank statements (6 months),True,Ravi Nair,,130541.0,Good
+HL2025-5042,Sale agreement,False,,,,
+HL2025-5042,Property title deeds,True,Ravi Nair,,,Good
+HL2025-5042,Approved building plan,True,Ravi Nair,,,Good
+HL2025-5043,PAN card,True,Lakshmi Singh,,,Good
+HL2025-5043,Aadhaar card,True,Lakshmi Singh,,,Good
+HL2025-5043,Income proof,True,Lakshmi Singh,42817.0,,Good
+HL2025-5043,Bank statements (6 months),True,Lakshmi Singh,,45195.0,Good
+HL2025-5043,Sale agreement,True,Lakshmi Singh,,,Good
+HL2025-5043,Property title deeds,True,Lakshmi Singh,,,Good
+HL2025-5043,Approved building plan,True,Lakshmi Singh,,,Good
+HL2025-5044,PAN card,True,Aditya Verma,,,Good
+HL2025-5044,Aadhaar card,True,Aditya Verma,,,Good
+HL2025-5044,Income proof,True,Aditya Verma,106687.0,,Good
+HL2025-5044,Bank statements (6 months),True,Aditya Verma,,107248.0,Good
+HL2025-5044,Sale agreement,True,Aditya Verma,,,Good
+HL2025-5044,Property title deeds,True,Aditya Verma,,,Good
+HL2025-5044,Approved building plan,True,Aditya Verma,,,Good
+HL2025-5045,PAN card,True,Suresh Bose,,,Good
+HL2025-5045,Aadhaar card,True,Suresh Rao,,,Good
+HL2025-5045,Income proof,True,Suresh Bose,48600.0,,Good
+HL2025-5045,Bank statements (6 months),True,Suresh Bose,,50158.0,Good
+HL2025-5045,Sale agreement,True,Suresh Bose,,,Good
+HL2025-5045,Property title deeds,True,Suresh Bose,,,Good
+HL2025-5045,Approved building plan,True,Suresh Bose,,,Good
+HL2025-5046,PAN card,True,Neha Iyer,,,Good
+HL2025-5046,Aadhaar card,True,Neha Iyer,,,Good
+HL2025-5046,Income proof,True,Neha Iyer,68565.0,,Good
+HL2025-5046,Bank statements (6 months),True,Neha Iyer,,69244.0,Good
+HL2025-5046,Sale agreement,True,Neha Iyer,,,Good
+HL2025-5046,Property title deeds,True,Neha Iyer,,,Good
+HL2025-5046,Approved building plan,True,Neha Iyer,,,Good
+HL2025-5047,PAN card,True,Ravi Iyer,,,Good
+HL2025-5047,Aadhaar card,True,Ravi Iyer,,,Good
+HL2025-5047,Income proof,True,Ravi Iyer,45156.0,,Good
+HL2025-5047,Bank statements (6 months),True,Ravi Iyer,,46689.0,Good
+HL2025-5047,Sale agreement,False,,,,
+HL2025-5047,Property title deeds,True,Ravi Iyer,,,Good
+HL2025-5047,Approved building plan,True,Ravi Iyer,,,Good
+HL2025-5048,PAN card,True,Ravi Verma,,,Good
+HL2025-5048,Aadhaar card,True,Ravi Verma,,,Good
+HL2025-5048,Income proof,True,Ravi Verma,55218.0,,Good
+HL2025-5048,Bank statements (6 months),True,Ravi Verma,,54808.0,Good
+HL2025-5048,Sale agreement,True,Ravi Verma,,,Good
+HL2025-5048,Property title deeds,True,Ravi Verma,,,Good
+HL2025-5048,Approved building plan,True,Ravi Verma,,,Good
+HL2025-5049,PAN card,True,Vikram Khan,,,Good
+HL2025-5049,Aadhaar card,True,Vikram Khan,,,Good
+HL2025-5049,Income proof,True,Vikram Khan,73844.0,,Good
+HL2025-5049,Bank statements (6 months),True,Vikram Khan,,69426.0,Good
+HL2025-5049,Sale agreement,True,Vikram Khan,,,Poor
+HL2025-5049,Property title deeds,True,Vikram Khan,,,Good
+HL2025-5049,Approved building plan,True,Vikram Khan,,,Good
+HL2025-5050,PAN card,True,Vikram Gupta,,,Good
+HL2025-5050,Aadhaar card,True,Vikram Gupta,,,Good
+HL2025-5050,Income proof,True,Vikram Gupta,65003.0,,Good
+HL2025-5050,Bank statements (6 months),True,Vikram Gupta,,68292.0,Good
+HL2025-5050,Sale agreement,True,Vikram Gupta,,,Good
+HL2025-5050,Property title deeds,True,Vikram Gupta,,,Good
+HL2025-5050,Approved building plan,True,Vikram Gupta,,,Good
+HL2025-5051,PAN card,True,Manish Singh,,,Good
+HL2025-5051,Aadhaar card,True,Manish Singh,,,Good
+HL2025-5051,Income proof,True,Manish Singh,32787.0,,Good
+HL2025-5051,Bank statements (6 months),True,Manish Singh,,30077.0,Good
+HL2025-5051,Sale agreement,True,Manish Singh,,,Good
+HL2025-5051,Property title deeds,True,Manish Singh,,,Good
+HL2025-5051,Approved building plan,True,Manish Singh,,,Good
+HL2025-5052,PAN card,True,Aarav Singh,,,Good
+HL2025-5052,Aadhaar card,True,Aarav Singh,,,Good
+HL2025-5052,Income proof,True,Aarav Singh,55580.0,,Good
+HL2025-5052,Bank statements (6 months),True,Aarav Singh,,56252.0,Good
+HL2025-5052,Sale agreement,True,Aarav Singh,,,Good
+HL2025-5052,Property title deeds,True,Aarav Singh,,,Good
+HL2025-5052,Approved building plan,True,Aarav Singh,,,Good
+HL2025-5053,PAN card,True,Priya Rao,,,Good
+HL2025-5053,Aadhaar card,True,Priya Rao,,,Good
+HL2025-5053,Income proof,True,Priya Rao,60966.0,,Good
+HL2025-5053,Bank statements (6 months),True,Priya Rao,,66075.0,Good
+HL2025-5053,Sale agreement,True,Priya Rao,,,Good
+HL2025-5053,Property title deeds,True,Priya Rao,,,Good
+HL2025-5053,Approved building plan,True,Priya Rao,,,Good
+HL2025-5054,PAN card,True,Suresh Pillai,,,Good
+HL2025-5054,Aadhaar card,True,Suresh Khan,,,Good
+HL2025-5054,Income proof,True,Suresh Pillai,165150.0,,Good
+HL2025-5054,Bank statements (6 months),False,,,,
+HL2025-5054,Sale agreement,True,Suresh Pillai,,,Good
+HL2025-5054,Property title deeds,True,Suresh Pillai,,,Good
+HL2025-5054,Approved building plan,True,Suresh Pillai,,,Good
+HL2025-5055,PAN card,True,Kavya Malhotra,,,Good
+HL2025-5055,Aadhaar card,True,Kavya Malhotra,,,Good
+HL2025-5055,Income proof,True,Kavya Malhotra,73962.0,,Good
+HL2025-5055,Bank statements (6 months),True,Kavya Malhotra,,72646.0,Good
+HL2025-5055,Sale agreement,True,Kavya Malhotra,,,Good
+HL2025-5055,Property title deeds,True,Kavya Malhotra,,,Good
+HL2025-5055,Approved building plan,True,Kavya Malhotra,,,Good
+HL2025-5056,PAN card,True,Deepak Verma,,,Good
+HL2025-5056,Aadhaar card,True,Deepak Verma,,,Good
+HL2025-5056,Income proof,True,Deepak Verma,25279.0,,Good
+HL2025-5056,Bank statements (6 months),True,Deepak Verma,,26104.0,Good
+HL2025-5056,Sale agreement,True,Deepak Verma,,,Good
+HL2025-5056,Property title deeds,True,Deepak Verma,,,Good
+HL2025-5056,Approved building plan,True,Deepak Verma,,,Good
+HL2025-5057,PAN card,True,Lakshmi Joshi,,,Good
+HL2025-5057,Aadhaar card,True,Lakshmi Joshi,,,Good
+HL2025-5057,Income proof,True,Lakshmi Joshi,70021.0,,Good
+HL2025-5057,Bank statements (6 months),True,Lakshmi Joshi,,68231.0,Good
+HL2025-5057,Sale agreement,True,Lakshmi Joshi,,,Good
+HL2025-5057,Property title deeds,False,,,,
+HL2025-5057,Approved building plan,True,Lakshmi Joshi,,,Good
+HL2025-5058,PAN card,True,Sneha Das,,,Good
+HL2025-5058,Aadhaar card,True,Sneha Das,,,Good
+HL2025-5058,Income proof,True,Sneha Das,61129.0,,Good
+HL2025-5058,Bank statements (6 months),True,Sneha Das,,61558.0,Good
+HL2025-5058,Sale agreement,True,Sneha Das,,,Good
+HL2025-5058,Property title deeds,True,Sneha Das,,,Good
+HL2025-5058,Approved building plan,True,Sneha Das,,,Good
+HL2025-5059,PAN card,True,Sanjay Khan,,,Good
+HL2025-5059,Aadhaar card,True,Sanjay Khan,,,Good
+HL2025-5059,Income proof,False,,,,
+HL2025-5059,Bank statements (6 months),True,Sanjay Khan,,65986.0,Good
+HL2025-5059,Sale agreement,True,Sanjay Khan,,,Good
+HL2025-5059,Property title deeds,True,Sanjay Khan,,,Good
+HL2025-5059,Approved building plan,False,,,,
+HL2025-5060,PAN card,True,Arjun Singh,,,Good
+HL2025-5060,Aadhaar card,True,Arjun Singh,,,Good
+HL2025-5060,Income proof,True,Arjun Singh,116165.0,,Good
+HL2025-5060,Bank statements (6 months),True,Arjun Singh,,120082.0,Good
+HL2025-5060,Sale agreement,True,Arjun Singh,,,Good
+HL2025-5060,Property title deeds,True,Arjun Singh,,,Good
+HL2025-5060,Approved building plan,True,Arjun Singh,,,Good
+HL2025-5061,PAN card,True,Fatima Chopra,,,Good
+HL2025-5061,Aadhaar card,True,Fatima Chopra,,,Good
+HL2025-5061,Income proof,True,Fatima Chopra,96401.0,,Good
+HL2025-5061,Bank statements (6 months),True,Fatima Chopra,,93910.0,Good
+HL2025-5061,Sale agreement,True,Fatima Chopra,,,Good
+HL2025-5061,Property title deeds,True,Fatima Chopra,,,Good
+HL2025-5061,Approved building plan,True,Fatima Chopra,,,Good
+HL2025-5062,PAN card,True,Aditya Gupta,,,Good
+HL2025-5062,Aadhaar card,True,Aditya Gupta,,,Good
+HL2025-5062,Income proof,False,,,,
+HL2025-5062,Bank statements (6 months),True,Aditya Gupta,,123026.0,Good
+HL2025-5062,Sale agreement,True,Aditya Gupta,,,Good
+HL2025-5062,Property title deeds,True,Aditya Gupta,,,Good
+HL2025-5062,Approved building plan,True,Aditya Gupta,,,Good
+HL2025-5063,PAN card,True,Manish Chopra,,,Good
+HL2025-5063,Aadhaar card,True,Manish Chopra,,,Good
+HL2025-5063,Income proof,True,Manish Chopra,85644.0,,Good
+HL2025-5063,Bank statements (6 months),True,Manish Chopra,,88422.0,Poor
+HL2025-5063,Sale agreement,True,Manish Chopra,,,Good
+HL2025-5063,Property title deeds,True,Manish Chopra,,,Good
+HL2025-5063,Approved building plan,True,Manish Chopra,,,Good
+HL2025-5064,PAN card,True,Deepak Menon,,,Good
+HL2025-5064,Aadhaar card,True,Deepak Menon,,,Good
+HL2025-5064,Income proof,False,,,,
+HL2025-5064,Bank statements (6 months),False,,,,
+HL2025-5064,Sale agreement,True,Deepak Menon,,,Good
+HL2025-5064,Property title deeds,True,Deepak Menon,,,Good
+HL2025-5064,Approved building plan,True,Deepak Menon,,,Good
+HL2025-5065,PAN card,True,Nisha Verma,,,Good
+HL2025-5065,Aadhaar card,True,Nisha Verma,,,Good
+HL2025-5065,Income proof,True,Nisha Verma,70943.0,,Good
+HL2025-5065,Bank statements (6 months),False,,,,
+HL2025-5065,Sale agreement,True,Nisha Verma,,,Good
+HL2025-5065,Property title deeds,True,Nisha Verma,,,Good
+HL2025-5065,Approved building plan,True,Nisha Verma,,,Good
+HL2025-5066,PAN card,True,Vihaan Shetty,,,Good
+HL2025-5066,Aadhaar card,True,Vihaan Shetty,,,Good
+HL2025-5066,Income proof,True,Vihaan Shetty,30071.0,,Good
+HL2025-5066,Bank statements (6 months),True,Vihaan Shetty,,29651.0,Good
+HL2025-5066,Sale agreement,True,Vihaan Shetty,,,Good
+HL2025-5066,Property title deeds,True,Vihaan Shetty,,,Good
+HL2025-5066,Approved building plan,True,Vihaan Shetty,,,Good
+HL2025-5067,PAN card,True,Neha Malhotra,,,Good
+HL2025-5067,Aadhaar card,True,Neha Malhotra,,,Good
+HL2025-5067,Income proof,True,Neha Malhotra,37981.0,,Good
+HL2025-5067,Bank statements (6 months),True,Neha Malhotra,,36477.0,Good
+HL2025-5067,Sale agreement,True,Neha Malhotra,,,Good
+HL2025-5067,Property title deeds,True,Neha Malhotra,,,Good
+HL2025-5067,Approved building plan,False,,,,
+HL2025-5068,PAN card,True,Kavya Shetty,,,Good
+HL2025-5068,Aadhaar card,True,Kavya Shetty,,,Good
+HL2025-5068,Income proof,True,Kavya Shetty,40171.0,,Good
+HL2025-5068,Bank statements (6 months),True,Kavya Shetty,,40095.0,Good
+HL2025-5068,Sale agreement,False,,,,
+HL2025-5068,Property title deeds,True,Kavya Shetty,,,Good
+HL2025-5068,Approved building plan,True,Kavya Shetty,,,Good
+HL2025-5069,PAN card,True,Nisha Gupta,,,Good
+HL2025-5069,Aadhaar card,True,Nisha Gupta,,,Good
+HL2025-5069,Income proof,True,Nisha Gupta,43431.0,,Good
+HL2025-5069,Bank statements (6 months),True,Nisha Gupta,,46717.0,Good
+HL2025-5069,Sale agreement,True,Nisha Gupta,,,Good
+HL2025-5069,Property title deeds,True,Nisha Gupta,,,Good
+HL2025-5069,Approved building plan,True,Nisha Gupta,,,Good
+HL2025-5070,PAN card,True,Deepak Das,,,Good
+HL2025-5070,Aadhaar card,True,Deepak Das,,,Good
+HL2025-5070,Income proof,True,Deepak Das,96145.0,,Good
+HL2025-5070,Bank statements (6 months),True,Deepak Das,,99692.0,Good
+HL2025-5070,Sale agreement,True,Deepak Das,,,Good
+HL2025-5070,Property title deeds,True,Deepak Das,,,Good
+HL2025-5070,Approved building plan,True,Deepak Das,,,Good
+HL2025-5071,PAN card,True,Karthik Gupta,,,Good
+HL2025-5071,Aadhaar card,True,Karthik Gupta,,,Good
+HL2025-5071,Income proof,True,Karthik Gupta,73163.0,,Good
+HL2025-5071,Bank statements (6 months),True,Karthik Gupta,,81369.0,Good
+HL2025-5071,Sale agreement,True,Karthik Gupta,,,Good
+HL2025-5071,Property title deeds,True,Karthik Gupta,,,Good
+HL2025-5071,Approved building plan,True,Karthik Gupta,,,Good
+HL2025-5072,PAN card,False,,,,
+HL2025-5072,Aadhaar card,True,Ananya Shetty,,,Good
+HL2025-5072,Income proof,False,,,,
+HL2025-5072,Bank statements (6 months),True,Ananya Shetty,,30980.0,Good
+HL2025-5072,Sale agreement,True,Ananya Shetty,,,Good
+HL2025-5072,Property title deeds,True,Ananya Shetty,,,Good
+HL2025-5072,Approved building plan,True,Ananya Shetty,,,Good
+HL2025-5073,PAN card,True,Swati Pillai,,,Good
+HL2025-5073,Aadhaar card,True,Swati Pillai,,,Good
+HL2025-5073,Income proof,True,Swati Pillai,74823.0,,Good
+HL2025-5073,Bank statements (6 months),True,Swati Pillai,,75317.0,Good
+HL2025-5073,Sale agreement,True,Swati Pillai,,,Good
+HL2025-5073,Property title deeds,True,Swati Pillai,,,Good
+HL2025-5073,Approved building plan,True,Swati Pillai,,,Good
+HL2025-5074,PAN card,True,Swati Verma,,,Good
+HL2025-5074,Aadhaar card,True,Swati Rao,,,Good
+HL2025-5074,Income proof,True,Swati Verma,34960.0,,Good
+HL2025-5074,Bank statements (6 months),True,Swati Verma,,34022.0,Good
+HL2025-5074,Sale agreement,True,Swati Verma,,,Good
+HL2025-5074,Property title deeds,True,Swati Verma,,,Good
+HL2025-5074,Approved building plan,True,Swati Verma,,,Good
+HL2025-5075,PAN card,True,Aarav Menon,,,Good
+HL2025-5075,Aadhaar card,True,Aarav Menon,,,Good
+HL2025-5075,Income proof,True,Aarav Menon,55132.0,,Good
+HL2025-5075,Bank statements (6 months),True,Aarav Menon,,86378.0,Good
+HL2025-5075,Sale agreement,True,Aarav Menon,,,Good
+HL2025-5075,Property title deeds,True,Aarav Menon,,,Good
+HL2025-5075,Approved building plan,True,Aarav Menon,,,Good
+HL2025-5076,PAN card,True,Lakshmi Shetty,,,Good
+HL2025-5076,Aadhaar card,True,Lakshmi Shetty,,,Good
+HL2025-5076,Income proof,True,Lakshmi Shetty,76168.0,,Good
+HL2025-5076,Bank statements (6 months),True,Lakshmi Shetty,,72832.0,Good
+HL2025-5076,Sale agreement,True,Lakshmi Shetty,,,Good
+HL2025-5076,Property title deeds,True,Lakshmi Shetty,,,Good
+HL2025-5076,Approved building plan,True,Lakshmi Shetty,,,Good
+HL2025-5077,PAN card,True,Harpreet Verma,,,Good
+HL2025-5077,Aadhaar card,True,Harpreet Verma,,,Good
+HL2025-5077,Income proof,True,Harpreet Verma,47657.0,,Good
+HL2025-5077,Bank statements (6 months),True,Harpreet Verma,,45851.0,Good
+HL2025-5077,Sale agreement,True,Harpreet Verma,,,Good
+HL2025-5077,Property title deeds,True,Harpreet Verma,,,Good
+HL2025-5077,Approved building plan,True,Harpreet Verma,,,Good
+HL2025-5078,PAN card,True,Imran Bose,,,Good
+HL2025-5078,Aadhaar card,True,Imran Bose,,,Good
+HL2025-5078,Income proof,True,Imran Bose,75195.0,,Good
+HL2025-5078,Bank statements (6 months),True,Imran Bose,,81588.0,Good
+HL2025-5078,Sale agreement,True,Imran Bose,,,Good
+HL2025-5078,Property title deeds,True,Imran Bose,,,Good
+HL2025-5078,Approved building plan,True,Imran Bose,,,Good
+HL2025-5079,PAN card,True,Rahul Reddy,,,Good
+HL2025-5079,Aadhaar card,True,Rahul Reddy,,,Good
+HL2025-5079,Income proof,True,Rahul Reddy,168060.0,,Good
+HL2025-5079,Bank statements (6 months),True,Rahul Reddy,,180866.0,Good
+HL2025-5079,Sale agreement,True,Rahul Reddy,,,Good
+HL2025-5079,Property title deeds,True,Rahul Reddy,,,Good
+HL2025-5079,Approved building plan,True,Rahul Reddy,,,Good
+HL2025-5080,PAN card,True,Nisha Iyer,,,Good
+HL2025-5080,Aadhaar card,True,Nisha Iyer,,,Good
+HL2025-5080,Income proof,True,Nisha Iyer,36573.0,,Good
+HL2025-5080,Bank statements (6 months),True,Nisha Iyer,,34438.0,Good
+HL2025-5080,Sale agreement,True,Nisha Iyer,,,Good
+HL2025-5080,Property title deeds,True,Nisha Iyer,,,Good
+HL2025-5080,Approved building plan,True,Nisha Iyer,,,Good
+HL2025-5081,PAN card,True,Karthik Chopra,,,Good
+HL2025-5081,Aadhaar card,True,Karthik Chopra,,,Good
+HL2025-5081,Income proof,True,Karthik Chopra,39259.0,,Good
+HL2025-5081,Bank statements (6 months),True,Karthik Chopra,,41134.0,Good
+HL2025-5081,Sale agreement,True,Karthik Chopra,,,Good
+HL2025-5081,Property title deeds,True,Karthik Chopra,,,Good
+HL2025-5081,Approved building plan,True,Karthik Chopra,,,Good
+HL2025-5082,PAN card,True,Suresh Malhotra,,,Good
+HL2025-5082,Aadhaar card,True,Suresh Malhotra,,,Good
+HL2025-5082,Income proof,True,Suresh Malhotra,119102.0,,Good
+HL2025-5082,Bank statements (6 months),True,Suresh Malhotra,,125837.0,Good
+HL2025-5082,Sale agreement,True,Suresh Malhotra,,,Good
+HL2025-5082,Property title deeds,True,Suresh Malhotra,,,Good
+HL2025-5082,Approved building plan,True,Suresh Malhotra,,,Good
+HL2025-5083,PAN card,True,Rohan Pillai,,,Good
+HL2025-5083,Aadhaar card,True,Rohan Pillai,,,Good
+HL2025-5083,Income proof,True,Rohan Pillai,104050.0,,Good
+HL2025-5083,Bank statements (6 months),True,Rohan Pillai,,102803.0,Good
+HL2025-5083,Sale agreement,True,Rohan Pillai,,,Good
+HL2025-5083,Property title deeds,True,Rohan Pillai,,,Good
+HL2025-5083,Approved building plan,False,,,,
+HL2025-5084,PAN card,True,Pooja Gupta,,,Good
+HL2025-5084,Aadhaar card,True,Pooja Gupta,,,Good
+HL2025-5084,Income proof,True,Pooja Gupta,99744.0,,Good
+HL2025-5084,Bank statements (6 months),True,Pooja Gupta,,103934.0,Good
+HL2025-5084,Sale agreement,True,Pooja Gupta,,,Good
+HL2025-5084,Property title deeds,True,Pooja Gupta,,,Good
+HL2025-5084,Approved building plan,True,Pooja Gupta,,,Good
+HL2025-5085,PAN card,True,Vikram Pillai,,,Good
+HL2025-5085,Aadhaar card,True,Vikram Pillai,,,Good
+HL2025-5085,Income proof,True,Vikram Pillai,57657.0,,Good
+HL2025-5085,Bank statements (6 months),True,Vikram Pillai,,54034.0,Poor
+HL2025-5085,Sale agreement,True,Vikram Pillai,,,Good
+HL2025-5085,Property title deeds,True,Vikram Pillai,,,Good
+HL2025-5085,Approved building plan,True,Vikram Pillai,,,Good
+HL2025-5086,PAN card,True,Aarav Verma,,,Good
+HL2025-5086,Aadhaar card,True,Aarav Verma,,,Good
+HL2025-5086,Income proof,False,,,,
+HL2025-5086,Bank statements (6 months),True,Aarav Verma,,42383.0,Good
+HL2025-5086,Sale agreement,True,Aarav Verma,,,Good
+HL2025-5086,Property title deeds,True,Aarav Verma,,,Good
+HL2025-5086,Approved building plan,False,,,,
+HL2025-5087,PAN card,True,Deepak Nair,,,Good
+HL2025-5087,Aadhaar card,True,Deepak Nair,,,Good
+HL2025-5087,Income proof,True,Deepak Nair,62185.0,,Good
+HL2025-5087,Bank statements (6 months),True,Deepak Nair,,58402.0,Good
+HL2025-5087,Sale agreement,True,Deepak Nair,,,Good
+HL2025-5087,Property title deeds,True,Deepak Nair,,,Good
+HL2025-5087,Approved building plan,True,Deepak Nair,,,Good
+HL2025-5088,PAN card,True,Meera Verma,,,Good
+HL2025-5088,Aadhaar card,True,Meera Verma,,,Good
+HL2025-5088,Income proof,True,Meera Verma,75050.0,,Good
+HL2025-5088,Bank statements (6 months),True,Meera Verma,,76074.0,Good
+HL2025-5088,Sale agreement,True,Meera Verma,,,Good
+HL2025-5088,Property title deeds,True,Meera Verma,,,Good
+HL2025-5088,Approved building plan,True,Meera Verma,,,Good
+HL2025-5089,PAN card,True,Rahul Bose,,,Good
+HL2025-5089,Aadhaar card,False,,,,
+HL2025-5089,Income proof,True,Rahul Bose,65603.0,,Good
+HL2025-5089,Bank statements (6 months),True,Rahul Bose,,69092.0,Good
+HL2025-5089,Sale agreement,True,Rahul Bose,,,Good
+HL2025-5089,Property title deeds,True,Rahul Bose,,,Good
+HL2025-5089,Approved building plan,True,Rahul Bose,,,Good
+HL2025-5090,PAN card,True,Aarav Chopra,,,Good
+HL2025-5090,Aadhaar card,True,Aarav Chopra,,,Good
+HL2025-5090,Income proof,True,Aarav Chopra,57789.0,,Good
+HL2025-5090,Bank statements (6 months),True,Aarav Chopra,,52194.0,Good
+HL2025-5090,Sale agreement,True,Aarav Chopra,,,Good
+HL2025-5090,Property title deeds,True,Aarav Chopra,,,Good
+HL2025-5090,Approved building plan,True,Aarav Chopra,,,Good
+HL2025-5091,PAN card,True,Ananya Mehta,,,Good
+HL2025-5091,Aadhaar card,True,Ananya Mehta,,,Good
+HL2025-5091,Income proof,True,Ananya Mehta,90552.0,,Good
+HL2025-5091,Bank statements (6 months),True,Ananya Mehta,,94993.0,Good
+HL2025-5091,Sale agreement,True,Ananya Mehta,,,Good
+HL2025-5091,Property title deeds,True,Ananya Mehta,,,Good
+HL2025-5091,Approved building plan,True,Ananya Mehta,,,Good
+HL2025-5092,PAN card,True,Aditya Gupta,,,Good
+HL2025-5092,Aadhaar card,True,Aditya Gupta,,,Good
+HL2025-5092,Income proof,True,Aditya Gupta,37755.0,,Good
+HL2025-5092,Bank statements (6 months),True,Aditya Gupta,,38723.0,Good
+HL2025-5092,Sale agreement,True,Aditya Gupta,,,Good
+HL2025-5092,Property title deeds,True,Aditya Gupta,,,Good
+HL2025-5092,Approved building plan,True,Aditya Gupta,,,Good
+HL2025-5093,PAN card,True,Meera Sharma,,,Good
+HL2025-5093,Aadhaar card,True,Meera Sharma,,,Good
+HL2025-5093,Income proof,True,Meera Sharma,36403.0,,Good
+HL2025-5093,Bank statements (6 months),True,Meera Sharma,,62231.0,Good
+HL2025-5093,Sale agreement,True,Meera Sharma,,,Good
+HL2025-5093,Property title deeds,True,Meera Sharma,,,Good
+HL2025-5093,Approved building plan,True,Meera Sharma,,,Good
+HL2025-5094,PAN card,True,Divya Shetty,,,Good
+HL2025-5094,Aadhaar card,True,Divya Shetty,,,Good
+HL2025-5094,Income proof,True,Divya Shetty,80866.0,,Good
+HL2025-5094,Bank statements (6 months),True,Divya Shetty,,80068.0,Good
+HL2025-5094,Sale agreement,True,Divya Shetty,,,Good
+HL2025-5094,Property title deeds,True,Divya Shetty,,,Good
+HL2025-5094,Approved building plan,True,Divya Shetty,,,Good
+HL2025-5095,PAN card,True,Deepak Bose,,,Good
+HL2025-5095,Aadhaar card,True,Deepak Bose,,,Good
+HL2025-5095,Income proof,True,Deepak Bose,44258.0,,Good
+HL2025-5095,Bank statements (6 months),True,Deepak Bose,,47215.0,Good
+HL2025-5095,Sale agreement,True,Deepak Bose,,,Good
+HL2025-5095,Property title deeds,True,Deepak Bose,,,Good
+HL2025-5095,Approved building plan,True,Deepak Bose,,,Good
+HL2025-5096,PAN card,True,Rohan Shetty,,,Good
+HL2025-5096,Aadhaar card,True,Rohan Shetty,,,Good
+HL2025-5096,Income proof,True,Rohan Shetty,50610.0,,Good
+HL2025-5096,Bank statements (6 months),True,Rohan Shetty,,56437.0,Good
+HL2025-5096,Sale agreement,True,Rohan Shetty,,,Good
+HL2025-5096,Property title deeds,True,Rohan Shetty,,,Good
+HL2025-5096,Approved building plan,True,Rohan Shetty,,,Good
+HL2025-5097,PAN card,True,Lakshmi Das,,,Good
+HL2025-5097,Aadhaar card,True,Lakshmi Shetty,,,Good
+HL2025-5097,Income proof,True,Lakshmi Das,73203.0,,Good
+HL2025-5097,Bank statements (6 months),True,Lakshmi Das,,73712.0,Good
+HL2025-5097,Sale agreement,True,Lakshmi Das,,,Poor
+HL2025-5097,Property title deeds,True,Lakshmi Das,,,Good
+HL2025-5097,Approved building plan,True,Lakshmi Das,,,Good
+HL2025-5098,PAN card,True,Deepak Shetty,,,Good
+HL2025-5098,Aadhaar card,True,Deepak Shetty,,,Good
+HL2025-5098,Income proof,True,Deepak Shetty,70707.0,,Good
+HL2025-5098,Bank statements (6 months),True,Deepak Shetty,,68706.0,Good
+HL2025-5098,Sale agreement,True,Deepak Shetty,,,Good
+HL2025-5098,Property title deeds,True,Deepak Shetty,,,Good
+HL2025-5098,Approved building plan,True,Deepak Shetty,,,Good
+HL2025-5099,PAN card,True,Harpreet Chopra,,,Good
+HL2025-5099,Aadhaar card,True,Harpreet Chopra,,,Good
+HL2025-5099,Income proof,True,Harpreet Chopra,42966.0,,Good
+HL2025-5099,Bank statements (6 months),True,Harpreet Chopra,,46030.0,Good
+HL2025-5099,Sale agreement,True,Harpreet Chopra,,,Good
+HL2025-5099,Property title deeds,True,Harpreet Chopra,,,Good
+HL2025-5099,Approved building plan,True,Harpreet Chopra,,,Good
+HL2025-5100,PAN card,True,Vihaan Mehta,,,Good
+HL2025-5100,Aadhaar card,True,Vihaan Mehta,,,Good
+HL2025-5100,Income proof,True,Vihaan Mehta,50489.0,,Good
+HL2025-5100,Bank statements (6 months),True,Vihaan Mehta,,73742.0,Good
+HL2025-5100,Sale agreement,True,Vihaan Mehta,,,Good
+HL2025-5100,Property title deeds,True,Vihaan Mehta,,,Good
+HL2025-5100,Approved building plan,True,Vihaan Mehta,,,Good
+HL2025-5101,PAN card,True,Karthik Nair,,,Poor
+HL2025-5101,Aadhaar card,True,Karthik Nair,,,Good
+HL2025-5101,Income proof,True,Karthik Nair,77937.0,,Good
+HL2025-5101,Bank statements (6 months),True,Karthik Nair,,75171.0,Good
+HL2025-5101,Sale agreement,True,Karthik Nair,,,Poor
+HL2025-5101,Property title deeds,True,Karthik Nair,,,Poor
+HL2025-5101,Approved building plan,True,Karthik Nair,,,Good
+HL2025-5102,PAN card,True,Lakshmi Malhotra,,,Good
+HL2025-5102,Aadhaar card,False,,,,
+HL2025-5102,Income proof,True,Lakshmi Malhotra,114558.0,,Good
+HL2025-5102,Bank statements (6 months),True,Lakshmi Malhotra,,117022.0,Good
+HL2025-5102,Sale agreement,True,Lakshmi Malhotra,,,Good
+HL2025-5102,Property title deeds,True,Lakshmi Malhotra,,,Good
+HL2025-5102,Approved building plan,False,,,,
+HL2025-5103,PAN card,True,Arjun Pillai,,,Good
+HL2025-5103,Aadhaar card,True,Arjun Pillai,,,Good
+HL2025-5103,Income proof,True,Arjun Pillai,32270.0,,Good
+HL2025-5103,Bank statements (6 months),True,Arjun Pillai,,33534.0,Good
+HL2025-5103,Sale agreement,True,Arjun Pillai,,,Good
+HL2025-5103,Property title deeds,True,Arjun Pillai,,,Good
+HL2025-5103,Approved building plan,True,Arjun Pillai,,,Good
+HL2025-5104,PAN card,True,Rahul Reddy,,,Good
+HL2025-5104,Aadhaar card,False,,,,
+HL2025-5104,Income proof,True,Rahul Reddy,85796.0,,Good
+HL2025-5104,Bank statements (6 months),True,Rahul Reddy,,79186.0,Good
+HL2025-5104,Sale agreement,True,Rahul Reddy,,,Good
+HL2025-5104,Property title deeds,True,Rahul Reddy,,,Good
+HL2025-5104,Approved building plan,True,Rahul Reddy,,,Good
+HL2025-5105,PAN card,True,Meera Malhotra,,,Good
+HL2025-5105,Aadhaar card,False,,,,
+HL2025-5105,Income proof,True,Meera Malhotra,84561.0,,Good
+HL2025-5105,Bank statements (6 months),True,Meera Malhotra,,84031.0,Good
+HL2025-5105,Sale agreement,True,Meera Malhotra,,,Good
+HL2025-5105,Property title deeds,True,Meera Malhotra,,,Good
+HL2025-5105,Approved building plan,True,Meera Malhotra,,,Good
+HL2025-5106,PAN card,True,Aditya Gupta,,,Good
+HL2025-5106,Aadhaar card,True,Aditya Gupta,,,Good
+HL2025-5106,Income proof,True,Aditya Gupta,57496.0,,Good
+HL2025-5106,Bank statements (6 months),True,Aditya Gupta,,83264.0,Good
+HL2025-5106,Sale agreement,True,Aditya Gupta,,,Good
+HL2025-5106,Property title deeds,True,Aditya Gupta,,,Good
+HL2025-5106,Approved building plan,True,Aditya Gupta,,,Good
+HL2025-5107,PAN card,True,Shweta Mehta,,,Good
+HL2025-5107,Aadhaar card,True,Shweta Mehta,,,Good
+HL2025-5107,Income proof,True,Shweta Mehta,108239.0,,Good
+HL2025-5107,Bank statements (6 months),True,Shweta Mehta,,98315.0,Good
+HL2025-5107,Sale agreement,True,Shweta Mehta,,,Good
+HL2025-5107,Property title deeds,True,Shweta Mehta,,,Good
+HL2025-5107,Approved building plan,True,Shweta Mehta,,,Good
+HL2025-5108,PAN card,True,Meera Patel,,,Poor
+HL2025-5108,Aadhaar card,True,Meera Patel,,,Good
+HL2025-5108,Income proof,True,Meera Patel,54542.0,,Good
+HL2025-5108,Bank statements (6 months),True,Meera Patel,,61439.0,Good
+HL2025-5108,Sale agreement,True,Meera Patel,,,Good
+HL2025-5108,Property title deeds,True,Meera Patel,,,Good
+HL2025-5108,Approved building plan,True,Meera Patel,,,Good
+HL2025-5109,PAN card,True,Neha Chopra,,,Good
+HL2025-5109,Aadhaar card,True,Neha Menon,,,Good
+HL2025-5109,Income proof,True,Neha Chopra,43720.0,,Good
+HL2025-5109,Bank statements (6 months),True,Neha Chopra,,44633.0,Good
+HL2025-5109,Sale agreement,True,Neha Chopra,,,Good
+HL2025-5109,Property title deeds,True,Neha Chopra,,,Good
+HL2025-5109,Approved building plan,True,Neha Chopra,,,Good
+HL2025-5110,PAN card,True,Aarav Reddy,,,Good
+HL2025-5110,Aadhaar card,True,Aarav Reddy,,,Good
+HL2025-5110,Income proof,True,Aarav Reddy,51115.0,,Good
+HL2025-5110,Bank statements (6 months),True,Aarav Reddy,,46300.0,Good
+HL2025-5110,Sale agreement,True,Aarav Reddy,,,Good
+HL2025-5110,Property title deeds,True,Aarav Reddy,,,Good
+HL2025-5110,Approved building plan,True,Aarav Reddy,,,Good
+HL2025-5111,PAN card,True,Pooja Iyer,,,Good
+HL2025-5111,Aadhaar card,True,Pooja Iyer,,,Good
+HL2025-5111,Income proof,True,Pooja Iyer,207409.0,,Good
+HL2025-5111,Bank statements (6 months),True,Pooja Iyer,,217978.0,Good
+HL2025-5111,Sale agreement,True,Pooja Iyer,,,Good
+HL2025-5111,Property title deeds,True,Pooja Iyer,,,Good
+HL2025-5111,Approved building plan,True,Pooja Iyer,,,Good
+HL2025-5112,PAN card,True,Suresh Pillai,,,Good
+HL2025-5112,Aadhaar card,True,Suresh Pillai,,,Good
+HL2025-5112,Income proof,True,Suresh Pillai,92403.0,,Good
+HL2025-5112,Bank statements (6 months),True,Suresh Pillai,,84163.0,Good
+HL2025-5112,Sale agreement,True,Suresh Pillai,,,Good
+HL2025-5112,Property title deeds,True,Suresh Pillai,,,Good
+HL2025-5112,Approved building plan,True,Suresh Pillai,,,Good
+HL2025-5113,PAN card,True,Ananya Joshi,,,Good
+HL2025-5113,Aadhaar card,True,Ananya Joshi,,,Good
+HL2025-5113,Income proof,True,Ananya Joshi,52727.0,,Good
+HL2025-5113,Bank statements (6 months),True,Ananya Joshi,,54144.0,Good
+HL2025-5113,Sale agreement,True,Ananya Joshi,,,Good
+HL2025-5113,Property title deeds,True,Ananya Joshi,,,Good
+HL2025-5113,Approved building plan,True,Ananya Joshi,,,Good
+HL2025-5114,PAN card,True,Amit Shetty,,,Good
+HL2025-5114,Aadhaar card,False,,,,
+HL2025-5114,Income proof,True,Amit Shetty,69681.0,,Good
+HL2025-5114,Bank statements (6 months),True,Amit Shetty,,70169.0,Good
+HL2025-5114,Sale agreement,False,,,,
+HL2025-5114,Property title deeds,True,Amit Shetty,,,Good
+HL2025-5114,Approved building plan,True,Amit Shetty,,,Good
+HL2025-5115,PAN card,True,Swati Rao,,,Good
+HL2025-5115,Aadhaar card,True,Swati Rao,,,Good
+HL2025-5115,Income proof,True,Swati Rao,46349.0,,Good
+HL2025-5115,Bank statements (6 months),True,Swati Rao,,42610.0,Good
+HL2025-5115,Sale agreement,True,Swati Rao,,,Good
+HL2025-5115,Property title deeds,True,Swati Rao,,,Good
+HL2025-5115,Approved building plan,True,Swati Rao,,,Good
+HL2025-5116,PAN card,True,Lakshmi Chopra,,,Good
+HL2025-5116,Aadhaar card,True,Lakshmi Chopra,,,Good
+HL2025-5116,Income proof,True,Lakshmi Chopra,45430.0,,Good
+HL2025-5116,Bank statements (6 months),True,Lakshmi Chopra,,44476.0,Good
+HL2025-5116,Sale agreement,False,,,,
+HL2025-5116,Property title deeds,True,Lakshmi Chopra,,,Good
+HL2025-5116,Approved building plan,True,Lakshmi Chopra,,,Good
+HL2025-5117,PAN card,True,Meera Chopra,,,Good
+HL2025-5117,Aadhaar card,True,Meera Chopra,,,Good
+HL2025-5117,Income proof,True,Meera Chopra,65211.0,,Good
+HL2025-5117,Bank statements (6 months),True,Meera Chopra,,62248.0,Good
+HL2025-5117,Sale agreement,True,Meera Chopra,,,Good
+HL2025-5117,Property title deeds,True,Meera Chopra,,,Good
+HL2025-5117,Approved building plan,True,Meera Chopra,,,Good
+HL2025-5118,PAN card,True,Neha Verma,,,Good
+HL2025-5118,Aadhaar card,True,Neha Verma,,,Good
+HL2025-5118,Income proof,True,Neha Verma,141311.0,,Good
+HL2025-5118,Bank statements (6 months),True,Neha Verma,,195790.0,Good
+HL2025-5118,Sale agreement,True,Neha Verma,,,Good
+HL2025-5118,Property title deeds,True,Neha Verma,,,Good
+HL2025-5118,Approved building plan,True,Neha Verma,,,Good
+HL2025-5119,PAN card,True,Divya Das,,,Good
+HL2025-5119,Aadhaar card,True,Divya Das,,,Good
+HL2025-5119,Income proof,True,Divya Das,25387.0,,Good
+HL2025-5119,Bank statements (6 months),True,Divya Das,,22824.0,Good
+HL2025-5119,Sale agreement,True,Divya Das,,,Good
+HL2025-5119,Property title deeds,True,Divya Das,,,Good
+HL2025-5119,Approved building plan,True,Divya Das,,,Good
+HL2025-5120,PAN card,True,Manish Bose,,,Good
+HL2025-5120,Aadhaar card,True,Manish Bose,,,Good
+HL2025-5120,Income proof,True,Manish Bose,48351.0,,Good
+HL2025-5120,Bank statements (6 months),True,Manish Bose,,43124.0,Good
+HL2025-5120,Sale agreement,True,Manish Bose,,,Good
+HL2025-5120,Property title deeds,True,Manish Bose,,,Good
+HL2025-5120,Approved building plan,True,Manish Bose,,,Good
+HL2025-5121,PAN card,True,Swati Reddy,,,Good
+HL2025-5121,Aadhaar card,True,Swati Reddy,,,Good
+HL2025-5121,Income proof,True,Swati Reddy,45127.0,,Good
+HL2025-5121,Bank statements (6 months),True,Swati Reddy,,43968.0,Good
+HL2025-5121,Sale agreement,True,Swati Reddy,,,Good
+HL2025-5121,Property title deeds,True,Swati Reddy,,,Good
+HL2025-5121,Approved building plan,True,Swati Reddy,,,Good
+HL2025-5122,PAN card,True,Arjun Das,,,Good
+HL2025-5122,Aadhaar card,True,Arjun Das,,,Good
+HL2025-5122,Income proof,True,Arjun Das,86513.0,,Good
+HL2025-5122,Bank statements (6 months),True,Arjun Das,,80024.0,Good
+HL2025-5122,Sale agreement,True,Arjun Das,,,Good
+HL2025-5122,Property title deeds,True,Arjun Das,,,Good
+HL2025-5122,Approved building plan,True,Arjun Das,,,Good
+HL2025-5123,PAN card,True,Priya Joshi,,,Good
+HL2025-5123,Aadhaar card,False,,,,
+HL2025-5123,Income proof,True,Priya Joshi,27289.0,,Good
+HL2025-5123,Bank statements (6 months),True,Priya Joshi,,36048.0,Good
+HL2025-5123,Sale agreement,True,Priya Joshi,,,Good
+HL2025-5123,Property title deeds,True,Priya Joshi,,,Good
+HL2025-5123,Approved building plan,True,Priya Joshi,,,Good
+HL2025-5124,PAN card,True,Deepak Gupta,,,Good
+HL2025-5124,Aadhaar card,True,Deepak Joshi,,,Good
+HL2025-5124,Income proof,True,Deepak Gupta,53317.0,,Good
+HL2025-5124,Bank statements (6 months),True,Deepak Gupta,,51734.0,Good
+HL2025-5124,Sale agreement,True,Deepak Gupta,,,Good
+HL2025-5124,Property title deeds,True,Deepak Gupta,,,Good
+HL2025-5124,Approved building plan,True,Deepak Gupta,,,Good
+HL2025-5125,PAN card,True,Ritu Chopra,,,Good
+HL2025-5125,Aadhaar card,True,Ritu Chopra,,,Good
+HL2025-5125,Income proof,False,,,,
+HL2025-5125,Bank statements (6 months),True,Ritu Chopra,,161065.0,Good
+HL2025-5125,Sale agreement,True,Ritu Chopra,,,Good
+HL2025-5125,Property title deeds,True,Ritu Chopra,,,Good
+HL2025-5125,Approved building plan,True,Ritu Chopra,,,Good
+HL2025-5126,PAN card,True,Pooja Joshi,,,Good
+HL2025-5126,Aadhaar card,True,Pooja Joshi,,,Good
+HL2025-5126,Income proof,True,Pooja Joshi,35715.0,,Good
+HL2025-5126,Bank statements (6 months),True,Pooja Joshi,,34126.0,Good
+HL2025-5126,Sale agreement,True,Pooja Joshi,,,Good
+HL2025-5126,Property title deeds,True,Pooja Joshi,,,Good
+HL2025-5126,Approved building plan,True,Pooja Joshi,,,Good
+HL2025-5127,PAN card,True,Kavya Nair,,,Good
+HL2025-5127,Aadhaar card,True,Kavya Nair,,,Good
+HL2025-5127,Income proof,True,Kavya Nair,188381.0,,Good
+HL2025-5127,Bank statements (6 months),True,Kavya Nair,,205403.0,Good
+HL2025-5127,Sale agreement,True,Kavya Nair,,,Good
+HL2025-5127,Property title deeds,True,Kavya Nair,,,Good
+HL2025-5127,Approved building plan,True,Kavya Nair,,,Good
+HL2025-5128,PAN card,True,Swati Joshi,,,Good
+HL2025-5128,Aadhaar card,True,Swati Reddy,,,Good
+HL2025-5128,Income proof,True,Swati Joshi,29144.0,,Good
+HL2025-5128,Bank statements (6 months),True,Swati Joshi,,30000.0,Good
+HL2025-5128,Sale agreement,True,Swati Joshi,,,Good
+HL2025-5128,Property title deeds,True,Swati Joshi,,,Good
+HL2025-5128,Approved building plan,True,Swati Joshi,,,Good
+HL2025-5129,PAN card,True,Swati Shetty,,,Good
+HL2025-5129,Aadhaar card,True,Swati Shetty,,,Good
+HL2025-5129,Income proof,True,Swati Shetty,125314.0,,Good
+HL2025-5129,Bank statements (6 months),True,Swati Shetty,,129569.0,Good
+HL2025-5129,Sale agreement,True,Swati Shetty,,,Good
+HL2025-5129,Property title deeds,True,Swati Shetty,,,Good
+HL2025-5129,Approved building plan,True,Swati Shetty,,,Good
+HL2025-5130,PAN card,True,Manish Reddy,,,Good
+HL2025-5130,Aadhaar card,True,Manish Reddy,,,Good
+HL2025-5130,Income proof,True,Manish Reddy,83309.0,,Good
+HL2025-5130,Bank statements (6 months),True,Manish Reddy,,74168.0,Good
+HL2025-5130,Sale agreement,False,,,,
+HL2025-5130,Property title deeds,False,,,,
+HL2025-5130,Approved building plan,True,Manish Reddy,,,Good
+HL2025-5131,PAN card,True,Meera Khan,,,Good
+HL2025-5131,Aadhaar card,True,Meera Khan,,,Good
+HL2025-5131,Income proof,True,Meera Khan,41420.0,,Good
+HL2025-5131,Bank statements (6 months),True,Meera Khan,,38191.0,Good
+HL2025-5131,Sale agreement,True,Meera Khan,,,Good
+HL2025-5131,Property title deeds,True,Meera Khan,,,Good
+HL2025-5131,Approved building plan,True,Meera Khan,,,Good
+HL2025-5132,PAN card,True,Priya Kulkarni,,,Good
+HL2025-5132,Aadhaar card,True,Priya Kulkarni,,,Good
+HL2025-5132,Income proof,True,Priya Kulkarni,25111.0,,Good
+HL2025-5132,Bank statements (6 months),True,Priya Kulkarni,,24056.0,Good
+HL2025-5132,Sale agreement,True,Priya Kulkarni,,,Good
+HL2025-5132,Property title deeds,True,Priya Kulkarni,,,Good
+HL2025-5132,Approved building plan,True,Priya Kulkarni,,,Good
+HL2025-5133,PAN card,False,,,,
+HL2025-5133,Aadhaar card,True,Suresh Verma,,,Good
+HL2025-5133,Income proof,True,Suresh Khan,42974.0,,Good
+HL2025-5133,Bank statements (6 months),True,Suresh Khan,,59501.0,Good
+HL2025-5133,Sale agreement,True,Suresh Khan,,,Good
+HL2025-5133,Property title deeds,True,Suresh Khan,,,Good
+HL2025-5133,Approved building plan,True,Suresh Khan,,,Good
+HL2025-5134,PAN card,True,Manish Bose,,,Good
+HL2025-5134,Aadhaar card,True,Manish Bose,,,Good
+HL2025-5134,Income proof,True,Manish Bose,151363.0,,Good
+HL2025-5134,Bank statements (6 months),True,Manish Bose,,136868.0,Good
+HL2025-5134,Sale agreement,True,Manish Bose,,,Good
+HL2025-5134,Property title deeds,True,Manish Bose,,,Good
+HL2025-5134,Approved building plan,True,Manish Bose,,,Good
+HL2025-5135,PAN card,True,Ravi Das,,,Good
+HL2025-5135,Aadhaar card,True,Ravi Das,,,Good
+HL2025-5135,Income proof,True,Ravi Das,54258.0,,Good
+HL2025-5135,Bank statements (6 months),True,Ravi Das,,51552.0,Good
+HL2025-5135,Sale agreement,True,Ravi Das,,,Good
+HL2025-5135,Property title deeds,True,Ravi Das,,,Good
+HL2025-5135,Approved building plan,True,Ravi Das,,,Good
+HL2025-5136,PAN card,True,Harpreet Verma,,,Good
+HL2025-5136,Aadhaar card,True,Harpreet Verma,,,Good
+HL2025-5136,Income proof,True,Harpreet Verma,138821.0,,Good
+HL2025-5136,Bank statements (6 months),True,Harpreet Verma,,131882.0,Good
+HL2025-5136,Sale agreement,True,Harpreet Verma,,,Good
+HL2025-5136,Property title deeds,True,Harpreet Verma,,,Good
+HL2025-5136,Approved building plan,True,Harpreet Verma,,,Good
+HL2025-5137,PAN card,True,Rohan Gupta,,,Good
+HL2025-5137,Aadhaar card,True,Rohan Gupta,,,Good
+HL2025-5137,Income proof,True,Rohan Gupta,118640.0,,Good
+HL2025-5137,Bank statements (6 months),True,Rohan Gupta,,111951.0,Good
+HL2025-5137,Sale agreement,True,Rohan Gupta,,,Good
+HL2025-5137,Property title deeds,True,Rohan Gupta,,,Good
+HL2025-5137,Approved building plan,True,Rohan Gupta,,,Good
+HL2025-5138,PAN card,True,Aarav Menon,,,Good
+HL2025-5138,Aadhaar card,True,Aarav Menon,,,Good
+HL2025-5138,Income proof,True,Aarav Menon,40465.0,,Good
+HL2025-5138,Bank statements (6 months),True,Aarav Menon,,41356.0,Good
+HL2025-5138,Sale agreement,True,Aarav Menon,,,Good
+HL2025-5138,Property title deeds,True,Aarav Menon,,,Good
+HL2025-5138,Approved building plan,True,Aarav Menon,,,Good
+HL2025-5139,PAN card,True,Nisha Gupta,,,Good
+HL2025-5139,Aadhaar card,True,Nisha Gupta,,,Good
+HL2025-5139,Income proof,True,Nisha Gupta,72587.0,,Good
+HL2025-5139,Bank statements (6 months),True,Nisha Gupta,,75708.0,Good
+HL2025-5139,Sale agreement,True,Nisha Gupta,,,Good
+HL2025-5139,Property title deeds,True,Nisha Gupta,,,Good
+HL2025-5139,Approved building plan,True,Nisha Gupta,,,Good
+HL2025-5140,PAN card,True,Sanjay Nair,,,Good
+HL2025-5140,Aadhaar card,True,Sanjay Nair,,,Good
+HL2025-5140,Income proof,True,Sanjay Nair,69264.0,,Good
+HL2025-5140,Bank statements (6 months),True,Sanjay Nair,,70187.0,Good
+HL2025-5140,Sale agreement,True,Sanjay Nair,,,Good
+HL2025-5140,Property title deeds,True,Sanjay Nair,,,Good
+HL2025-5140,Approved building plan,True,Sanjay Nair,,,Good
+HL2025-5141,PAN card,True,Ritu Nair,,,Good
+HL2025-5141,Aadhaar card,True,Ritu Nair,,,Good
+HL2025-5141,Income proof,True,Ritu Nair,71757.0,,Good
+HL2025-5141,Bank statements (6 months),True,Ritu Nair,,73049.0,Good
+HL2025-5141,Sale agreement,True,Ritu Nair,,,Poor
+HL2025-5141,Property title deeds,True,Ritu Nair,,,Good
+HL2025-5141,Approved building plan,True,Ritu Nair,,,Good
+HL2025-5142,PAN card,True,Vikram Shetty,,,Good
+HL2025-5142,Aadhaar card,True,Vikram Shetty,,,Good
+HL2025-5142,Income proof,True,Vikram Shetty,150098.0,,Good
+HL2025-5142,Bank statements (6 months),True,Vikram Shetty,,147752.0,Good
+HL2025-5142,Sale agreement,True,Vikram Shetty,,,Good
+HL2025-5142,Property title deeds,True,Vikram Shetty,,,Good
+HL2025-5142,Approved building plan,True,Vikram Shetty,,,Good
+HL2025-5143,PAN card,True,Vikram Das,,,Good
+HL2025-5143,Aadhaar card,True,Vikram Das,,,Good
+HL2025-5143,Income proof,True,Vikram Das,191253.0,,Good
+HL2025-5143,Bank statements (6 months),True,Vikram Das,,179458.0,Good
+HL2025-5143,Sale agreement,True,Vikram Das,,,Good
+HL2025-5143,Property title deeds,True,Vikram Das,,,Good
+HL2025-5143,Approved building plan,True,Vikram Das,,,Good
+HL2025-5144,PAN card,True,Swati Menon,,,Good
+HL2025-5144,Aadhaar card,True,Swati Menon,,,Good
+HL2025-5144,Income proof,True,Swati Menon,61543.0,,Good
+HL2025-5144,Bank statements (6 months),True,Swati Menon,,65695.0,Good
+HL2025-5144,Sale agreement,True,Swati Menon,,,Good
+HL2025-5144,Property title deeds,True,Swati Menon,,,Good
+HL2025-5144,Approved building plan,True,Swati Menon,,,Good
+HL2025-5145,PAN card,True,Rohan Bose,,,Good
+HL2025-5145,Aadhaar card,True,Rohan Bose,,,Good
+HL2025-5145,Income proof,True,Rohan Bose,74539.0,,Good
+HL2025-5145,Bank statements (6 months),True,Rohan Bose,,76791.0,Good
+HL2025-5145,Sale agreement,True,Rohan Bose,,,Good
+HL2025-5145,Property title deeds,True,Rohan Bose,,,Good
+HL2025-5145,Approved building plan,False,,,,
+HL2025-5146,PAN card,True,Rohan Gupta,,,Good
+HL2025-5146,Aadhaar card,True,Rohan Gupta,,,Good
+HL2025-5146,Income proof,True,Rohan Gupta,58684.0,,Good
+HL2025-5146,Bank statements (6 months),True,Rohan Gupta,,57430.0,Good
+HL2025-5146,Sale agreement,True,Rohan Gupta,,,Good
+HL2025-5146,Property title deeds,True,Rohan Gupta,,,Good
+HL2025-5146,Approved building plan,True,Rohan Gupta,,,Good
+HL2025-5147,PAN card,True,Shweta Malhotra,,,Good
+HL2025-5147,Aadhaar card,True,Shweta Malhotra,,,Good
+HL2025-5147,Income proof,True,Shweta Malhotra,50421.0,,Good
+HL2025-5147,Bank statements (6 months),True,Shweta Malhotra,,48656.0,Good
+HL2025-5147,Sale agreement,True,Shweta Malhotra,,,Good
+HL2025-5147,Property title deeds,True,Shweta Malhotra,,,Good
+HL2025-5147,Approved building plan,True,Shweta Malhotra,,,Good
+HL2025-5148,PAN card,True,Harpreet Verma,,,Good
+HL2025-5148,Aadhaar card,True,Harpreet Verma,,,Good
+HL2025-5148,Income proof,True,Harpreet Verma,78111.0,,Good
+HL2025-5148,Bank statements (6 months),True,Harpreet Verma,,76528.0,Good
+HL2025-5148,Sale agreement,True,Harpreet Verma,,,Good
+HL2025-5148,Property title deeds,True,Harpreet Verma,,,Good
+HL2025-5148,Approved building plan,True,Harpreet Verma,,,Good
+HL2025-5149,PAN card,True,Rohan Patel,,,Good
+HL2025-5149,Aadhaar card,True,Rohan Patel,,,Good
+HL2025-5149,Income proof,True,Rohan Patel,100128.0,,Good
+HL2025-5149,Bank statements (6 months),True,Rohan Patel,,108138.0,Good
+HL2025-5149,Sale agreement,True,Rohan Patel,,,Good
+HL2025-5149,Property title deeds,True,Rohan Patel,,,Good
+HL2025-5149,Approved building plan,True,Rohan Patel,,,Good
+HL2025-5150,PAN card,True,Kavya Pillai,,,Good
+HL2025-5150,Aadhaar card,True,Kavya Pillai,,,Good
+HL2025-5150,Income proof,True,Kavya Pillai,65078.0,,Good
+HL2025-5150,Bank statements (6 months),True,Kavya Pillai,,99110.0,Good
+HL2025-5150,Sale agreement,True,Kavya Pillai,,,Good
+HL2025-5150,Property title deeds,True,Kavya Pillai,,,Good
+HL2025-5150,Approved building plan,True,Kavya Pillai,,,Good
+HL2025-5151,PAN card,False,,,,
+HL2025-5151,Aadhaar card,True,Vihaan Kulkarni,,,Good
+HL2025-5151,Income proof,True,Vihaan Kulkarni,43616.0,,Good
+HL2025-5151,Bank statements (6 months),True,Vihaan Kulkarni,,41879.0,Good
+HL2025-5151,Sale agreement,True,Vihaan Kulkarni,,,Good
+HL2025-5151,Property title deeds,True,Vihaan Kulkarni,,,Good
+HL2025-5151,Approved building plan,True,Vihaan Kulkarni,,,Good
+HL2025-5152,PAN card,True,Sanjay Kulkarni,,,Good
+HL2025-5152,Aadhaar card,True,Sanjay Kulkarni,,,Good
+HL2025-5152,Income proof,True,Sanjay Kulkarni,73377.0,,Good
+HL2025-5152,Bank statements (6 months),True,Sanjay Kulkarni,,100853.0,Good
+HL2025-5152,Sale agreement,True,Sanjay Kulkarni,,,Good
+HL2025-5152,Property title deeds,True,Sanjay Kulkarni,,,Good
+HL2025-5152,Approved building plan,True,Sanjay Kulkarni,,,Good
+HL2025-5153,PAN card,True,Swati Bose,,,Good
+HL2025-5153,Aadhaar card,True,Swati Bose,,,Good
+HL2025-5153,Income proof,True,Swati Bose,66246.0,,Good
+HL2025-5153,Bank statements (6 months),True,Swati Bose,,64532.0,Good
+HL2025-5153,Sale agreement,True,Swati Bose,,,Good
+HL2025-5153,Property title deeds,True,Swati Bose,,,Good
+HL2025-5153,Approved building plan,True,Swati Bose,,,Good
+HL2025-5154,PAN card,True,Vihaan Joshi,,,Good
+HL2025-5154,Aadhaar card,True,Vihaan Joshi,,,Good
+HL2025-5154,Income proof,True,Vihaan Joshi,124510.0,,Good
+HL2025-5154,Bank statements (6 months),True,Vihaan Joshi,,132432.0,Good
+HL2025-5154,Sale agreement,True,Vihaan Joshi,,,Good
+HL2025-5154,Property title deeds,True,Vihaan Joshi,,,Good
+HL2025-5154,Approved building plan,True,Vihaan Joshi,,,Good
+HL2025-5155,PAN card,True,Pooja Singh,,,Good
+HL2025-5155,Aadhaar card,True,Pooja Singh,,,Good
+HL2025-5155,Income proof,True,Pooja Singh,86784.0,,Good
+HL2025-5155,Bank statements (6 months),True,Pooja Singh,,82049.0,Good
+HL2025-5155,Sale agreement,True,Pooja Singh,,,Good
+HL2025-5155,Property title deeds,True,Pooja Singh,,,Good
+HL2025-5155,Approved building plan,True,Pooja Singh,,,Good
+HL2025-5156,PAN card,True,Rahul Nair,,,Good
+HL2025-5156,Aadhaar card,True,Rahul Nair,,,Good
+HL2025-5156,Income proof,True,Rahul Nair,59629.0,,Poor
+HL2025-5156,Bank statements (6 months),True,Rahul Nair,,56796.0,Good
+HL2025-5156,Sale agreement,True,Rahul Nair,,,Good
+HL2025-5156,Property title deeds,True,Rahul Nair,,,Good
+HL2025-5156,Approved building plan,True,Rahul Nair,,,Good
+HL2025-5157,PAN card,True,Karthik Sharma,,,Good
+HL2025-5157,Aadhaar card,True,Karthik Sharma,,,Good
+HL2025-5157,Income proof,True,Karthik Sharma,96232.0,,Good
+HL2025-5157,Bank statements (6 months),True,Karthik Sharma,,90226.0,Good
+HL2025-5157,Sale agreement,True,Karthik Sharma,,,Good
+HL2025-5157,Property title deeds,True,Karthik Sharma,,,Good
+HL2025-5157,Approved building plan,True,Karthik Sharma,,,Good
+HL2025-5158,PAN card,True,Ritu Verma,,,Good
+HL2025-5158,Aadhaar card,True,Ritu Verma,,,Good
+HL2025-5158,Income proof,True,Ritu Verma,129010.0,,Good
+HL2025-5158,Bank statements (6 months),True,Ritu Verma,,134701.0,Good
+HL2025-5158,Sale agreement,True,Ritu Verma,,,Good
+HL2025-5158,Property title deeds,True,Ritu Verma,,,Good
+HL2025-5158,Approved building plan,True,Ritu Verma,,,Good
+HL2025-5159,PAN card,True,Pooja Patel,,,Poor
+HL2025-5159,Aadhaar card,True,Pooja Patel,,,Good
+HL2025-5159,Income proof,True,Pooja Patel,68675.0,,Good
+HL2025-5159,Bank statements (6 months),True,Pooja Patel,,98024.0,Good
+HL2025-5159,Sale agreement,True,Pooja Patel,,,Good
+HL2025-5159,Property title deeds,True,Pooja Patel,,,Good
+HL2025-5159,Approved building plan,True,Pooja Patel,,,Good
+HL2025-5160,PAN card,True,Arjun Bose,,,Good
+HL2025-5160,Aadhaar card,True,Arjun Bose,,,Good
+HL2025-5160,Income proof,True,Arjun Bose,75010.0,,Good
+HL2025-5160,Bank statements (6 months),True,Arjun Bose,,72390.0,Good
+HL2025-5160,Sale agreement,True,Arjun Bose,,,Good
+HL2025-5160,Property title deeds,True,Arjun Bose,,,Good
+HL2025-5160,Approved building plan,True,Arjun Bose,,,Good
+HL2025-5161,PAN card,True,Divya Bose,,,Good
+HL2025-5161,Aadhaar card,True,Divya Bose,,,Good
+HL2025-5161,Income proof,True,Divya Bose,67074.0,,Good
+HL2025-5161,Bank statements (6 months),True,Divya Bose,,72140.0,Good
+HL2025-5161,Sale agreement,True,Divya Bose,,,Good
+HL2025-5161,Property title deeds,True,Divya Bose,,,Good
+HL2025-5161,Approved building plan,True,Divya Bose,,,Good
+HL2025-5162,PAN card,True,Lakshmi Pillai,,,Good
+HL2025-5162,Aadhaar card,True,Lakshmi Pillai,,,Good
+HL2025-5162,Income proof,True,Lakshmi Pillai,29165.0,,Good
+HL2025-5162,Bank statements (6 months),True,Lakshmi Pillai,,44785.0,Good
+HL2025-5162,Sale agreement,True,Lakshmi Pillai,,,Good
+HL2025-5162,Property title deeds,True,Lakshmi Pillai,,,Good
+HL2025-5162,Approved building plan,True,Lakshmi Pillai,,,Good
+HL2025-5163,PAN card,False,,,,
+HL2025-5163,Aadhaar card,True,Meera Chopra,,,Good
+HL2025-5163,Income proof,True,Meera Rao,40084.0,,Poor
+HL2025-5163,Bank statements (6 months),True,Meera Rao,,38667.0,Good
+HL2025-5163,Sale agreement,True,Meera Rao,,,Good
+HL2025-5163,Property title deeds,True,Meera Rao,,,Poor
+HL2025-5163,Approved building plan,True,Meera Rao,,,Good
+HL2025-5164,PAN card,True,Ritu Singh,,,Good
+HL2025-5164,Aadhaar card,True,Ritu Singh,,,Good
+HL2025-5164,Income proof,True,Ritu Singh,116512.0,,Good
+HL2025-5164,Bank statements (6 months),True,Ritu Singh,,119285.0,Good
+HL2025-5164,Sale agreement,True,Ritu Singh,,,Good
+HL2025-5164,Property title deeds,True,Ritu Singh,,,Good
+HL2025-5164,Approved building plan,True,Ritu Singh,,,Good
+HL2025-5165,PAN card,True,Kavya Patel,,,Good
+HL2025-5165,Aadhaar card,True,Kavya Patel,,,Good
+HL2025-5165,Income proof,True,Kavya Patel,88323.0,,Good
+HL2025-5165,Bank statements (6 months),True,Kavya Patel,,81456.0,Poor
+HL2025-5165,Sale agreement,True,Kavya Patel,,,Good
+HL2025-5165,Property title deeds,True,Kavya Patel,,,Good
+HL2025-5165,Approved building plan,True,Kavya Patel,,,Good
+HL2025-5166,PAN card,True,Sanjay Chopra,,,Good
+HL2025-5166,Aadhaar card,True,Sanjay Chopra,,,Good
+HL2025-5166,Income proof,True,Sanjay Chopra,63114.0,,Good
+HL2025-5166,Bank statements (6 months),True,Sanjay Chopra,,62890.0,Good
+HL2025-5166,Sale agreement,True,Sanjay Chopra,,,Good
+HL2025-5166,Property title deeds,True,Sanjay Chopra,,,Good
+HL2025-5166,Approved building plan,True,Sanjay Chopra,,,Good
+HL2025-5167,PAN card,True,Vikram Nair,,,Good
+HL2025-5167,Aadhaar card,True,Vikram Nair,,,Good
+HL2025-5167,Income proof,True,Vikram Nair,66910.0,,Good
+HL2025-5167,Bank statements (6 months),True,Vikram Nair,,71202.0,Good
+HL2025-5167,Sale agreement,True,Vikram Nair,,,Good
+HL2025-5167,Property title deeds,True,Vikram Nair,,,Good
+HL2025-5167,Approved building plan,True,Vikram Nair,,,Good
+HL2025-5168,PAN card,True,Swati Iyer,,,Good
+HL2025-5168,Aadhaar card,True,Swati Das,,,Good
+HL2025-5168,Income proof,True,Swati Iyer,104414.0,,Good
+HL2025-5168,Bank statements (6 months),True,Swati Iyer,,114176.0,Good
+HL2025-5168,Sale agreement,True,Swati Iyer,,,Good
+HL2025-5168,Property title deeds,True,Swati Iyer,,,Good
+HL2025-5168,Approved building plan,True,Swati Iyer,,,Good
+HL2025-5169,PAN card,True,Karthik Chopra,,,Good
+HL2025-5169,Aadhaar card,True,Karthik Chopra,,,Good
+HL2025-5169,Income proof,True,Karthik Chopra,32146.0,,Good
+HL2025-5169,Bank statements (6 months),True,Karthik Chopra,,39738.0,Good
+HL2025-5169,Sale agreement,True,Karthik Chopra,,,Good
+HL2025-5169,Property title deeds,True,Karthik Chopra,,,Good
+HL2025-5169,Approved building plan,True,Karthik Chopra,,,Good
+HL2025-5170,PAN card,True,Pooja Gupta,,,Good
+HL2025-5170,Aadhaar card,True,Pooja Gupta,,,Good
+HL2025-5170,Income proof,True,Pooja Gupta,60872.0,,Good
+HL2025-5170,Bank statements (6 months),True,Pooja Gupta,,78892.0,Good
+HL2025-5170,Sale agreement,True,Pooja Gupta,,,Good
+HL2025-5170,Property title deeds,True,Pooja Gupta,,,Good
+HL2025-5170,Approved building plan,True,Pooja Gupta,,,Good
+HL2025-5171,PAN card,True,Aarav Khan,,,Good
+HL2025-5171,Aadhaar card,True,Aarav Khan,,,Good
+HL2025-5171,Income proof,True,Aarav Khan,41726.0,,Good
+HL2025-5171,Bank statements (6 months),True,Aarav Khan,,39466.0,Good
+HL2025-5171,Sale agreement,True,Aarav Khan,,,Good
+HL2025-5171,Property title deeds,False,,,,
+HL2025-5171,Approved building plan,True,Aarav Khan,,,Good
+HL2025-5172,PAN card,True,Swati Nair,,,Good
+HL2025-5172,Aadhaar card,True,Swati Nair,,,Good
+HL2025-5172,Income proof,True,Swati Nair,73779.0,,Good
+HL2025-5172,Bank statements (6 months),True,Swati Nair,,69183.0,Good
+HL2025-5172,Sale agreement,True,Swati Nair,,,Good
+HL2025-5172,Property title deeds,True,Swati Nair,,,Good
+HL2025-5172,Approved building plan,False,,,,
+HL2025-5173,PAN card,True,Aditya Rao,,,Good
+HL2025-5173,Aadhaar card,True,Aditya Rao,,,Good
+HL2025-5173,Income proof,True,Aditya Rao,37000.0,,Good
+HL2025-5173,Bank statements (6 months),True,Aditya Rao,,57060.0,Good
+HL2025-5173,Sale agreement,True,Aditya Rao,,,Good
+HL2025-5173,Property title deeds,True,Aditya Rao,,,Good
+HL2025-5173,Approved building plan,True,Aditya Rao,,,Poor
+HL2025-5174,PAN card,True,Arjun Joshi,,,Good
+HL2025-5174,Aadhaar card,True,Arjun Joshi,,,Good
+HL2025-5174,Income proof,True,Arjun Joshi,31256.0,,Good
+HL2025-5174,Bank statements (6 months),True,Arjun Joshi,,34200.0,Good
+HL2025-5174,Sale agreement,True,Arjun Joshi,,,Good
+HL2025-5174,Property title deeds,True,Arjun Joshi,,,Good
+HL2025-5174,Approved building plan,True,Arjun Joshi,,,Good
+HL2025-5175,PAN card,True,Sanjay Reddy,,,Good
+HL2025-5175,Aadhaar card,True,Sanjay Reddy,,,Good
+HL2025-5175,Income proof,True,Sanjay Reddy,47076.0,,Good
+HL2025-5175,Bank statements (6 months),True,Sanjay Reddy,,42360.0,Good
+HL2025-5175,Sale agreement,True,Sanjay Reddy,,,Good
+HL2025-5175,Property title deeds,True,Sanjay Reddy,,,Good
+HL2025-5175,Approved building plan,True,Sanjay Reddy,,,Good
+HL2025-5176,PAN card,True,Imran Rao,,,Good
+HL2025-5176,Aadhaar card,True,Imran Rao,,,Good
+HL2025-5176,Income proof,True,Imran Rao,52653.0,,Good
+HL2025-5176,Bank statements (6 months),True,Imran Rao,,83134.0,Good
+HL2025-5176,Sale agreement,True,Imran Rao,,,Good
+HL2025-5176,Property title deeds,True,Imran Rao,,,Good
+HL2025-5176,Approved building plan,True,Imran Rao,,,Good
+HL2025-5177,PAN card,True,Fatima Das,,,Good
+HL2025-5177,Aadhaar card,True,Fatima Das,,,Good
+HL2025-5177,Income proof,True,Fatima Das,98299.0,,Good
+HL2025-5177,Bank statements (6 months),True,Fatima Das,,95266.0,Good
+HL2025-5177,Sale agreement,True,Fatima Das,,,Good
+HL2025-5177,Property title deeds,True,Fatima Das,,,Good
+HL2025-5177,Approved building plan,True,Fatima Das,,,Good
+HL2025-5178,PAN card,True,Imran Das,,,Good
+HL2025-5178,Aadhaar card,True,Imran Das,,,Good
+HL2025-5178,Income proof,True,Imran Das,65267.0,,Good
+HL2025-5178,Bank statements (6 months),True,Imran Das,,59944.0,Good
+HL2025-5178,Sale agreement,True,Imran Das,,,Good
+HL2025-5178,Property title deeds,True,Imran Das,,,Good
+HL2025-5178,Approved building plan,True,Imran Das,,,Good
+HL2025-5179,PAN card,True,Ritu Verma,,,Good
+HL2025-5179,Aadhaar card,True,Ritu Verma,,,Good
+HL2025-5179,Income proof,True,Ritu Verma,65304.0,,Good
+HL2025-5179,Bank statements (6 months),True,Ritu Verma,,61486.0,Good
+HL2025-5179,Sale agreement,True,Ritu Verma,,,Good
+HL2025-5179,Property title deeds,True,Ritu Verma,,,Good
+HL2025-5179,Approved building plan,True,Ritu Verma,,,Good
+HL2025-5180,PAN card,True,Amit Kulkarni,,,Good
+HL2025-5180,Aadhaar card,True,Amit Gupta,,,Good
+HL2025-5180,Income proof,True,Amit Kulkarni,76696.0,,Good
+HL2025-5180,Bank statements (6 months),True,Amit Kulkarni,,83583.0,Good
+HL2025-5180,Sale agreement,True,Amit Kulkarni,,,Good
+HL2025-5180,Property title deeds,True,Amit Kulkarni,,,Good
+HL2025-5180,Approved building plan,True,Amit Kulkarni,,,Good
+HL2025-5181,PAN card,True,Swati Joshi,,,Good
+HL2025-5181,Aadhaar card,True,Swati Joshi,,,Good
+HL2025-5181,Income proof,True,Swati Joshi,84461.0,,Good
+HL2025-5181,Bank statements (6 months),True,Swati Joshi,,88343.0,Good
+HL2025-5181,Sale agreement,True,Swati Joshi,,,Good
+HL2025-5181,Property title deeds,True,Swati Joshi,,,Good
+HL2025-5181,Approved building plan,True,Swati Joshi,,,Good
+HL2025-5182,PAN card,True,Sneha Sharma,,,Good
+HL2025-5182,Aadhaar card,True,Sneha Sharma,,,Good
+HL2025-5182,Income proof,True,Sneha Sharma,63856.0,,Good
+HL2025-5182,Bank statements (6 months),True,Sneha Sharma,,64096.0,Good
+HL2025-5182,Sale agreement,True,Sneha Sharma,,,Good
+HL2025-5182,Property title deeds,True,Sneha Sharma,,,Good
+HL2025-5182,Approved building plan,True,Sneha Sharma,,,Good
+HL2025-5183,PAN card,True,Kavya Patel,,,Good
+HL2025-5183,Aadhaar card,False,,,,
+HL2025-5183,Income proof,True,Kavya Patel,92276.0,,Good
+HL2025-5183,Bank statements (6 months),False,,,,
+HL2025-5183,Sale agreement,True,Kavya Patel,,,Good
+HL2025-5183,Property title deeds,True,Kavya Patel,,,Good
+HL2025-5183,Approved building plan,True,Kavya Patel,,,Good
+HL2025-5184,PAN card,True,Ritu Joshi,,,Good
+HL2025-5184,Aadhaar card,True,Ritu Joshi,,,Good
+HL2025-5184,Income proof,True,Ritu Joshi,52428.0,,Good
+HL2025-5184,Bank statements (6 months),True,Ritu Joshi,,78257.0,Good
+HL2025-5184,Sale agreement,True,Ritu Joshi,,,Good
+HL2025-5184,Property title deeds,True,Ritu Joshi,,,Good
+HL2025-5184,Approved building plan,True,Ritu Joshi,,,Good
+HL2025-5185,PAN card,True,Fatima Singh,,,Good
+HL2025-5185,Aadhaar card,True,Fatima Singh,,,Good
+HL2025-5185,Income proof,False,,,,
+HL2025-5185,Bank statements (6 months),True,Fatima Singh,,64518.0,Good
+HL2025-5185,Sale agreement,True,Fatima Singh,,,Good
+HL2025-5185,Property title deeds,False,,,,
+HL2025-5185,Approved building plan,True,Fatima Singh,,,Good
+HL2025-5186,PAN card,True,Suresh Malhotra,,,Good
+HL2025-5186,Aadhaar card,True,Suresh Malhotra,,,Good
+HL2025-5186,Income proof,True,Suresh Malhotra,67739.0,,Good
+HL2025-5186,Bank statements (6 months),True,Suresh Malhotra,,72060.0,Good
+HL2025-5186,Sale agreement,True,Suresh Malhotra,,,Good
+HL2025-5186,Property title deeds,True,Suresh Malhotra,,,Good
+HL2025-5186,Approved building plan,True,Suresh Malhotra,,,Good
+HL2025-5187,PAN card,True,Meera Pillai,,,Good
+HL2025-5187,Aadhaar card,True,Meera Pillai,,,Good
+HL2025-5187,Income proof,True,Meera Pillai,135887.0,,Good
+HL2025-5187,Bank statements (6 months),True,Meera Pillai,,125737.0,Good
+HL2025-5187,Sale agreement,True,Meera Pillai,,,Good
+HL2025-5187,Property title deeds,True,Meera Pillai,,,Good
+HL2025-5187,Approved building plan,True,Meera Pillai,,,Good
+HL2025-5188,PAN card,True,Swati Joshi,,,Good
+HL2025-5188,Aadhaar card,True,Swati Joshi,,,Good
+HL2025-5188,Income proof,True,Swati Joshi,188943.0,,Good
+HL2025-5188,Bank statements (6 months),True,Swati Joshi,,192365.0,Good
+HL2025-5188,Sale agreement,True,Swati Joshi,,,Good
+HL2025-5188,Property title deeds,True,Swati Joshi,,,Good
+HL2025-5188,Approved building plan,True,Swati Joshi,,,Good
+HL2025-5189,PAN card,True,Pooja Iyer,,,Good
+HL2025-5189,Aadhaar card,True,Pooja Iyer,,,Good
+HL2025-5189,Income proof,True,Pooja Iyer,102126.0,,Good
+HL2025-5189,Bank statements (6 months),True,Pooja Iyer,,97780.0,Good
+HL2025-5189,Sale agreement,True,Pooja Iyer,,,Good
+HL2025-5189,Property title deeds,True,Pooja Iyer,,,Good
+HL2025-5189,Approved building plan,True,Pooja Iyer,,,Good
+HL2025-5190,PAN card,True,Priya Das,,,Good
+HL2025-5190,Aadhaar card,True,Priya Das,,,Good
+HL2025-5190,Income proof,True,Priya Das,193836.0,,Good
+HL2025-5190,Bank statements (6 months),True,Priya Das,,202700.0,Good
+HL2025-5190,Sale agreement,True,Priya Das,,,Good
+HL2025-5190,Property title deeds,True,Priya Das,,,Good
+HL2025-5190,Approved building plan,True,Priya Das,,,Good
+HL2025-5191,PAN card,True,Pooja Shetty,,,Good
+HL2025-5191,Aadhaar card,True,Pooja Shetty,,,Good
+HL2025-5191,Income proof,True,Pooja Shetty,42050.0,,Good
+HL2025-5191,Bank statements (6 months),True,Pooja Shetty,,40176.0,Good
+HL2025-5191,Sale agreement,True,Pooja Shetty,,,Good
+HL2025-5191,Property title deeds,True,Pooja Shetty,,,Good
+HL2025-5191,Approved building plan,True,Pooja Shetty,,,Good
+HL2025-5192,PAN card,True,Vihaan Bose,,,Good
+HL2025-5192,Aadhaar card,True,Vihaan Bose,,,Good
+HL2025-5192,Income proof,True,Vihaan Bose,25317.0,,Good
+HL2025-5192,Bank statements (6 months),True,Vihaan Bose,,27366.0,Good
+HL2025-5192,Sale agreement,True,Vihaan Bose,,,Good
+HL2025-5192,Property title deeds,True,Vihaan Bose,,,Good
+HL2025-5192,Approved building plan,True,Vihaan Bose,,,Good
+HL2025-5193,PAN card,True,Deepak Bose,,,Good
+HL2025-5193,Aadhaar card,True,Deepak Bose,,,Good
+HL2025-5193,Income proof,True,Deepak Bose,28660.0,,Good
+HL2025-5193,Bank statements (6 months),True,Deepak Bose,,40812.0,Good
+HL2025-5193,Sale agreement,True,Deepak Bose,,,Good
+HL2025-5193,Property title deeds,True,Deepak Bose,,,Good
+HL2025-5193,Approved building plan,True,Deepak Bose,,,Good
+HL2025-5194,PAN card,True,Kavya Joshi,,,Good
+HL2025-5194,Aadhaar card,True,Kavya Joshi,,,Good
+HL2025-5194,Income proof,True,Kavya Joshi,76340.0,,Good
+HL2025-5194,Bank statements (6 months),True,Kavya Joshi,,75195.0,Good
+HL2025-5194,Sale agreement,True,Kavya Joshi,,,Good
+HL2025-5194,Property title deeds,True,Kavya Joshi,,,Good
+HL2025-5194,Approved building plan,True,Kavya Joshi,,,Good
+HL2025-5195,PAN card,True,Arjun Mehta,,,Good
+HL2025-5195,Aadhaar card,True,Arjun Mehta,,,Good
+HL2025-5195,Income proof,True,Arjun Mehta,106468.0,,Good
+HL2025-5195,Bank statements (6 months),True,Arjun Mehta,,107382.0,Good
+HL2025-5195,Sale agreement,True,Arjun Mehta,,,Good
+HL2025-5195,Property title deeds,True,Arjun Mehta,,,Good
+HL2025-5195,Approved building plan,True,Arjun Mehta,,,Good
+HL2025-5196,PAN card,True,Arjun Menon,,,Good
+HL2025-5196,Aadhaar card,False,,,,
+HL2025-5196,Income proof,True,Arjun Menon,42296.0,,Good
+HL2025-5196,Bank statements (6 months),True,Arjun Menon,,40802.0,Good
+HL2025-5196,Sale agreement,True,Arjun Menon,,,Good
+HL2025-5196,Property title deeds,True,Arjun Menon,,,Good
+HL2025-5196,Approved building plan,True,Arjun Menon,,,Good
+HL2025-5197,PAN card,True,Amit Nair,,,Good
+HL2025-5197,Aadhaar card,True,Amit Bose,,,Good
+HL2025-5197,Income proof,True,Amit Nair,34933.0,,Good
+HL2025-5197,Bank statements (6 months),True,Amit Nair,,33282.0,Good
+HL2025-5197,Sale agreement,True,Amit Nair,,,Good
+HL2025-5197,Property title deeds,True,Amit Nair,,,Good
+HL2025-5197,Approved building plan,False,,,,
+HL2025-5198,PAN card,True,Suresh Singh,,,Good
+HL2025-5198,Aadhaar card,True,Suresh Singh,,,Good
+HL2025-5198,Income proof,True,Suresh Singh,118186.0,,Good
+HL2025-5198,Bank statements (6 months),True,Suresh Singh,,115309.0,Good
+HL2025-5198,Sale agreement,True,Suresh Singh,,,Good
+HL2025-5198,Property title deeds,True,Suresh Singh,,,Good
+HL2025-5198,Approved building plan,True,Suresh Singh,,,Good
+HL2025-5199,PAN card,True,Arjun Patel,,,Good
+HL2025-5199,Aadhaar card,True,Arjun Patel,,,Good
+HL2025-5199,Income proof,True,Arjun Patel,28790.0,,Good
+HL2025-5199,Bank statements (6 months),True,Arjun Patel,,30220.0,Good
+HL2025-5199,Sale agreement,True,Arjun Patel,,,Good
+HL2025-5199,Property title deeds,False,,,,
+HL2025-5199,Approved building plan,True,Arjun Patel,,,Good
+HL2025-5200,PAN card,True,Lakshmi Menon,,,Poor
+HL2025-5200,Aadhaar card,True,Lakshmi Menon,,,Good
+HL2025-5200,Income proof,True,Lakshmi Menon,63711.0,,Good
+HL2025-5200,Bank statements (6 months),True,Lakshmi Menon,,56896.0,Good
+HL2025-5200,Sale agreement,True,Lakshmi Menon,,,Good
+HL2025-5200,Property title deeds,True,Lakshmi Menon,,,Good
+HL2025-5200,Approved building plan,True,Lakshmi Menon,,,Good
+HL2025-5201,PAN card,True,Ritu Bose,,,Good
+HL2025-5201,Aadhaar card,True,Ritu Bose,,,Good
+HL2025-5201,Income proof,True,Ritu Bose,29093.0,,Good
+HL2025-5201,Bank statements (6 months),True,Ritu Bose,,30892.0,Good
+HL2025-5201,Sale agreement,True,Ritu Bose,,,Good
+HL2025-5201,Property title deeds,True,Ritu Bose,,,Good
+HL2025-5201,Approved building plan,True,Ritu Bose,,,Good
+HL2025-5202,PAN card,True,Lakshmi Das,,,Good
+HL2025-5202,Aadhaar card,True,Lakshmi Das,,,Good
+HL2025-5202,Income proof,True,Lakshmi Das,45837.0,,Good
+HL2025-5202,Bank statements (6 months),True,Lakshmi Das,,71183.0,Good
+HL2025-5202,Sale agreement,True,Lakshmi Das,,,Good
+HL2025-5202,Property title deeds,True,Lakshmi Das,,,Good
+HL2025-5202,Approved building plan,True,Lakshmi Das,,,Good
+HL2025-5203,PAN card,True,Ravi Singh,,,Good
+HL2025-5203,Aadhaar card,True,Ravi Singh,,,Good
+HL2025-5203,Income proof,True,Ravi Singh,52252.0,,Good
+HL2025-5203,Bank statements (6 months),True,Ravi Singh,,55830.0,Good
+HL2025-5203,Sale agreement,True,Ravi Singh,,,Good
+HL2025-5203,Property title deeds,True,Ravi Singh,,,Good
+HL2025-5203,Approved building plan,True,Ravi Singh,,,Good
+HL2025-5204,PAN card,True,Fatima Rao,,,Good
+HL2025-5204,Aadhaar card,True,Fatima Rao,,,Good
+HL2025-5204,Income proof,True,Fatima Rao,37588.0,,Good
+HL2025-5204,Bank statements (6 months),True,Fatima Rao,,35229.0,Good
+HL2025-5204,Sale agreement,True,Fatima Rao,,,Good
+HL2025-5204,Property title deeds,True,Fatima Rao,,,Good
+HL2025-5204,Approved building plan,True,Fatima Rao,,,Good
+HL2025-5205,PAN card,True,Vihaan Chopra,,,Good
+HL2025-5205,Aadhaar card,True,Vihaan Chopra,,,Good
+HL2025-5205,Income proof,True,Vihaan Chopra,71119.0,,Good
+HL2025-5205,Bank statements (6 months),True,Vihaan Chopra,,64323.0,Good
+HL2025-5205,Sale agreement,True,Vihaan Chopra,,,Good
+HL2025-5205,Property title deeds,True,Vihaan Chopra,,,Good
+HL2025-5205,Approved building plan,True,Vihaan Chopra,,,Good
+HL2025-5206,PAN card,True,Arjun Reddy,,,Good
+HL2025-5206,Aadhaar card,True,Arjun Reddy,,,Good
+HL2025-5206,Income proof,True,Arjun Reddy,94451.0,,Good
+HL2025-5206,Bank statements (6 months),True,Arjun Reddy,,84842.0,Good
+HL2025-5206,Sale agreement,True,Arjun Reddy,,,Good
+HL2025-5206,Property title deeds,True,Arjun Reddy,,,Good
+HL2025-5206,Approved building plan,True,Arjun Reddy,,,Good
+HL2025-5207,PAN card,False,,,,
+HL2025-5207,Aadhaar card,True,Aditya Gupta,,,Good
+HL2025-5207,Income proof,True,Aditya Gupta,30531.0,,Good
+HL2025-5207,Bank statements (6 months),True,Aditya Gupta,,31137.0,Good
+HL2025-5207,Sale agreement,True,Aditya Gupta,,,Good
+HL2025-5207,Property title deeds,True,Aditya Gupta,,,Good
+HL2025-5207,Approved building plan,True,Aditya Gupta,,,Good
+HL2025-5208,PAN card,True,Manish Menon,,,Good
+HL2025-5208,Aadhaar card,True,Manish Menon,,,Good
+HL2025-5208,Income proof,True,Manish Menon,77904.0,,Good
+HL2025-5208,Bank statements (6 months),False,,,,
+HL2025-5208,Sale agreement,True,Manish Menon,,,Good
+HL2025-5208,Property title deeds,True,Manish Menon,,,Good
+HL2025-5208,Approved building plan,True,Manish Menon,,,Good
+HL2025-5209,PAN card,True,Vikram Nair,,,Good
+HL2025-5209,Aadhaar card,True,Vikram Nair,,,Good
+HL2025-5209,Income proof,True,Vikram Nair,140617.0,,Good
+HL2025-5209,Bank statements (6 months),True,Vikram Nair,,132771.0,Good
+HL2025-5209,Sale agreement,True,Vikram Nair,,,Good
+HL2025-5209,Property title deeds,True,Vikram Nair,,,Good
+HL2025-5209,Approved building plan,True,Vikram Nair,,,Good
+HL2025-5210,PAN card,True,Nisha Chopra,,,Good
+HL2025-5210,Aadhaar card,True,Nisha Chopra,,,Good
+HL2025-5210,Income proof,True,Nisha Chopra,115733.0,,Good
+HL2025-5210,Bank statements (6 months),True,Nisha Chopra,,125974.0,Good
+HL2025-5210,Sale agreement,True,Nisha Chopra,,,Good
+HL2025-5210,Property title deeds,True,Nisha Chopra,,,Good
+HL2025-5210,Approved building plan,True,Nisha Chopra,,,Good
+HL2025-5211,PAN card,True,Amit Nair,,,Good
+HL2025-5211,Aadhaar card,True,Amit Nair,,,Good
+HL2025-5211,Income proof,True,Amit Nair,181729.0,,Good
+HL2025-5211,Bank statements (6 months),True,Amit Nair,,173336.0,Good
+HL2025-5211,Sale agreement,True,Amit Nair,,,Good
+HL2025-5211,Property title deeds,True,Amit Nair,,,Good
+HL2025-5211,Approved building plan,True,Amit Nair,,,Good
+HL2025-5212,PAN card,True,Rohan Iyer,,,Good
+HL2025-5212,Aadhaar card,True,Rohan Iyer,,,Good
+HL2025-5212,Income proof,False,,,,
+HL2025-5212,Bank statements (6 months),True,Rohan Iyer,,53349.0,Good
+HL2025-5212,Sale agreement,True,Rohan Iyer,,,Good
+HL2025-5212,Property title deeds,True,Rohan Iyer,,,Good
+HL2025-5212,Approved building plan,False,,,,
+HL2025-5213,PAN card,True,Lakshmi Shetty,,,Good
+HL2025-5213,Aadhaar card,True,Lakshmi Shetty,,,Good
+HL2025-5213,Income proof,True,Lakshmi Shetty,88808.0,,Good
+HL2025-5213,Bank statements (6 months),True,Lakshmi Shetty,,91076.0,Good
+HL2025-5213,Sale agreement,True,Lakshmi Shetty,,,Good
+HL2025-5213,Property title deeds,True,Lakshmi Shetty,,,Good
+HL2025-5213,Approved building plan,True,Lakshmi Shetty,,,Good
+HL2025-5214,PAN card,True,Lakshmi Kulkarni,,,Good
+HL2025-5214,Aadhaar card,False,,,,
+HL2025-5214,Income proof,False,,,,
+HL2025-5214,Bank statements (6 months),True,Lakshmi Kulkarni,,42091.0,Good
+HL2025-5214,Sale agreement,True,Lakshmi Kulkarni,,,Good
+HL2025-5214,Property title deeds,True,Lakshmi Kulkarni,,,Good
+HL2025-5214,Approved building plan,True,Lakshmi Kulkarni,,,Good
+HL2025-5215,PAN card,True,Priya Reddy,,,Good
+HL2025-5215,Aadhaar card,True,Priya Reddy,,,Good
+HL2025-5215,Income proof,True,Priya Reddy,111225.0,,Good
+HL2025-5215,Bank statements (6 months),True,Priya Reddy,,117290.0,Good
+HL2025-5215,Sale agreement,True,Priya Reddy,,,Good
+HL2025-5215,Property title deeds,True,Priya Reddy,,,Good
+HL2025-5215,Approved building plan,True,Priya Reddy,,,Good
+HL2025-5216,PAN card,True,Priya Mehta,,,Good
+HL2025-5216,Aadhaar card,False,,,,
+HL2025-5216,Income proof,True,Priya Mehta,36948.0,,Good
+HL2025-5216,Bank statements (6 months),False,,,,
+HL2025-5216,Sale agreement,True,Priya Mehta,,,Good
+HL2025-5216,Property title deeds,True,Priya Mehta,,,Good
+HL2025-5216,Approved building plan,True,Priya Mehta,,,Good
+HL2025-5217,PAN card,True,Nisha Pillai,,,Good
+HL2025-5217,Aadhaar card,True,Nisha Pillai,,,Good
+HL2025-5217,Income proof,True,Nisha Pillai,58633.0,,Good
+HL2025-5217,Bank statements (6 months),True,Nisha Pillai,,61473.0,Good
+HL2025-5217,Sale agreement,True,Nisha Pillai,,,Good
+HL2025-5217,Property title deeds,True,Nisha Pillai,,,Good
+HL2025-5217,Approved building plan,True,Nisha Pillai,,,Good
+HL2025-5218,PAN card,True,Amit Bose,,,Good
+HL2025-5218,Aadhaar card,True,Amit Bose,,,Good
+HL2025-5218,Income proof,True,Amit Bose,141793.0,,Good
+HL2025-5218,Bank statements (6 months),False,,,,
+HL2025-5218,Sale agreement,True,Amit Bose,,,Good
+HL2025-5218,Property title deeds,True,Amit Bose,,,Good
+HL2025-5218,Approved building plan,True,Amit Bose,,,Good
+HL2025-5219,PAN card,True,Vihaan Das,,,Good
+HL2025-5219,Aadhaar card,True,Vihaan Das,,,Good
+HL2025-5219,Income proof,True,Vihaan Das,151395.0,,Good
+HL2025-5219,Bank statements (6 months),True,Vihaan Das,,141570.0,Good
+HL2025-5219,Sale agreement,True,Vihaan Das,,,Good
+HL2025-5219,Property title deeds,True,Vihaan Das,,,Good
+HL2025-5219,Approved building plan,True,Vihaan Das,,,Good
+HL2025-5220,PAN card,True,Fatima Menon,,,Good
+HL2025-5220,Aadhaar card,True,Fatima Menon,,,Good
+HL2025-5220,Income proof,True,Fatima Menon,20603.0,,Good
+HL2025-5220,Bank statements (6 months),True,Fatima Menon,,28683.0,Good
+HL2025-5220,Sale agreement,True,Fatima Menon,,,Good
+HL2025-5220,Property title deeds,True,Fatima Menon,,,Good
+HL2025-5220,Approved building plan,True,Fatima Menon,,,Good
+HL2025-5221,PAN card,True,Priya Iyer,,,Good
+HL2025-5221,Aadhaar card,False,,,,
+HL2025-5221,Income proof,True,Priya Iyer,80203.0,,Good
+HL2025-5221,Bank statements (6 months),True,Priya Iyer,,80648.0,Good
+HL2025-5221,Sale agreement,True,Priya Iyer,,,Good
+HL2025-5221,Property title deeds,True,Priya Iyer,,,Poor
+HL2025-5221,Approved building plan,True,Priya Iyer,,,Good
+HL2025-5222,PAN card,True,Ritu Bose,,,Good
+HL2025-5222,Aadhaar card,True,Ritu Bose,,,Good
+HL2025-5222,Income proof,True,Ritu Bose,24515.0,,Good
+HL2025-5222,Bank statements (6 months),True,Ritu Bose,,26396.0,Good
+HL2025-5222,Sale agreement,True,Ritu Bose,,,Good
+HL2025-5222,Property title deeds,True,Ritu Bose,,,Good
+HL2025-5222,Approved building plan,True,Ritu Bose,,,Good
+HL2025-5223,PAN card,True,Rahul Reddy,,,Good
+HL2025-5223,Aadhaar card,True,Rahul Reddy,,,Good
+HL2025-5223,Income proof,True,Rahul Reddy,34080.0,,Good
+HL2025-5223,Bank statements (6 months),True,Rahul Reddy,,34423.0,Good
+HL2025-5223,Sale agreement,True,Rahul Reddy,,,Good
+HL2025-5223,Property title deeds,True,Rahul Reddy,,,Good
+HL2025-5223,Approved building plan,True,Rahul Reddy,,,Good
+HL2025-5224,PAN card,True,Arjun Joshi,,,Good
+HL2025-5224,Aadhaar card,True,Arjun Joshi,,,Good
+HL2025-5224,Income proof,True,Arjun Joshi,79428.0,,Good
+HL2025-5224,Bank statements (6 months),True,Arjun Joshi,,76889.0,Good
+HL2025-5224,Sale agreement,True,Arjun Joshi,,,Good
+HL2025-5224,Property title deeds,True,Arjun Joshi,,,Good
+HL2025-5224,Approved building plan,True,Arjun Joshi,,,Good
+HL2025-5225,PAN card,True,Lakshmi Verma,,,Good
+HL2025-5225,Aadhaar card,True,Lakshmi Verma,,,Good
+HL2025-5225,Income proof,True,Lakshmi Verma,50217.0,,Good
+HL2025-5225,Bank statements (6 months),True,Lakshmi Verma,,49083.0,Good
+HL2025-5225,Sale agreement,True,Lakshmi Verma,,,Good
+HL2025-5225,Property title deeds,True,Lakshmi Verma,,,Good
+HL2025-5225,Approved building plan,True,Lakshmi Verma,,,Good
+HL2025-5226,PAN card,True,Lakshmi Verma,,,Good
+HL2025-5226,Aadhaar card,True,Lakshmi Verma,,,Good
+HL2025-5226,Income proof,True,Lakshmi Verma,65541.0,,Good
+HL2025-5226,Bank statements (6 months),True,Lakshmi Verma,,66508.0,Good
+HL2025-5226,Sale agreement,True,Lakshmi Verma,,,Poor
+HL2025-5226,Property title deeds,True,Lakshmi Verma,,,Good
+HL2025-5226,Approved building plan,True,Lakshmi Verma,,,Good
+HL2025-5227,PAN card,True,Fatima Khan,,,Good
+HL2025-5227,Aadhaar card,True,Fatima Khan,,,Good
+HL2025-5227,Income proof,True,Fatima Khan,40006.0,,Good
+HL2025-5227,Bank statements (6 months),True,Fatima Khan,,38716.0,Good
+HL2025-5227,Sale agreement,True,Fatima Khan,,,Good
+HL2025-5227,Property title deeds,True,Fatima Khan,,,Good
+HL2025-5227,Approved building plan,True,Fatima Khan,,,Good
+HL2025-5228,PAN card,True,Priya Menon,,,Good
+HL2025-5228,Aadhaar card,True,Priya Menon,,,Good
+HL2025-5228,Income proof,True,Priya Menon,32973.0,,Good
+HL2025-5228,Bank statements (6 months),True,Priya Menon,,53046.0,Good
+HL2025-5228,Sale agreement,True,Priya Menon,,,Good
+HL2025-5228,Property title deeds,True,Priya Menon,,,Good
+HL2025-5228,Approved building plan,False,,,,
+HL2025-5229,PAN card,True,Meera Reddy,,,Good
+HL2025-5229,Aadhaar card,True,Meera Reddy,,,Good
+HL2025-5229,Income proof,True,Meera Reddy,61728.0,,Good
+HL2025-5229,Bank statements (6 months),True,Meera Reddy,,56750.0,Good
+HL2025-5229,Sale agreement,True,Meera Reddy,,,Good
+HL2025-5229,Property title deeds,True,Meera Reddy,,,Good
+HL2025-5229,Approved building plan,True,Meera Reddy,,,Good
+HL2025-5230,PAN card,True,Rohan Sharma,,,Good
+HL2025-5230,Aadhaar card,True,Rohan Sharma,,,Good
+HL2025-5230,Income proof,True,Rohan Sharma,50142.0,,Good
+HL2025-5230,Bank statements (6 months),True,Rohan Sharma,,51278.0,Good
+HL2025-5230,Sale agreement,True,Rohan Sharma,,,Good
+HL2025-5230,Property title deeds,True,Rohan Sharma,,,Good
+HL2025-5230,Approved building plan,True,Rohan Sharma,,,Good
+HL2025-5231,PAN card,True,Deepak Bose,,,Good
+HL2025-5231,Aadhaar card,True,Deepak Bose,,,Good
+HL2025-5231,Income proof,True,Deepak Bose,180296.0,,Good
+HL2025-5231,Bank statements (6 months),False,,,,
+HL2025-5231,Sale agreement,True,Deepak Bose,,,Good
+HL2025-5231,Property title deeds,True,Deepak Bose,,,Good
+HL2025-5231,Approved building plan,True,Deepak Bose,,,Good
+HL2025-5232,PAN card,True,Rohan Nair,,,Good
+HL2025-5232,Aadhaar card,True,Rohan Nair,,,Good
+HL2025-5232,Income proof,True,Rohan Nair,46994.0,,Good
+HL2025-5232,Bank statements (6 months),True,Rohan Nair,,47232.0,Good
+HL2025-5232,Sale agreement,True,Rohan Nair,,,Good
+HL2025-5232,Property title deeds,True,Rohan Nair,,,Good
+HL2025-5232,Approved building plan,True,Rohan Nair,,,Good
+HL2025-5233,PAN card,True,Vikram Joshi,,,Good
+HL2025-5233,Aadhaar card,True,Vikram Joshi,,,Good
+HL2025-5233,Income proof,True,Vikram Joshi,63105.0,,Good
+HL2025-5233,Bank statements (6 months),True,Vikram Joshi,,61818.0,Poor
+HL2025-5233,Sale agreement,True,Vikram Joshi,,,Good
+HL2025-5233,Property title deeds,True,Vikram Joshi,,,Good
+HL2025-5233,Approved building plan,True,Vikram Joshi,,,Good
+HL2025-5234,PAN card,True,Swati Khan,,,Good
+HL2025-5234,Aadhaar card,True,Swati Khan,,,Good
+HL2025-5234,Income proof,True,Swati Khan,64868.0,,Good
+HL2025-5234,Bank statements (6 months),True,Swati Khan,,92960.0,Good
+HL2025-5234,Sale agreement,True,Swati Khan,,,Good
+HL2025-5234,Property title deeds,True,Swati Khan,,,Good
+HL2025-5234,Approved building plan,True,Swati Khan,,,Good
+HL2025-5235,PAN card,True,Manish Chopra,,,Good
+HL2025-5235,Aadhaar card,True,Manish Chopra,,,Good
+HL2025-5235,Income proof,True,Manish Chopra,38857.0,,Good
+HL2025-5235,Bank statements (6 months),True,Manish Chopra,,53398.0,Good
+HL2025-5235,Sale agreement,True,Manish Chopra,,,Good
+HL2025-5235,Property title deeds,True,Manish Chopra,,,Good
+HL2025-5235,Approved building plan,True,Manish Chopra,,,Good
+HL2025-5236,PAN card,True,Lakshmi Reddy,,,Good
+HL2025-5236,Aadhaar card,True,Lakshmi Reddy,,,Good
+HL2025-5236,Income proof,True,Lakshmi Reddy,56987.0,,Good
+HL2025-5236,Bank statements (6 months),True,Lakshmi Reddy,,58137.0,Good
+HL2025-5236,Sale agreement,True,Lakshmi Reddy,,,Good
+HL2025-5236,Property title deeds,True,Lakshmi Reddy,,,Good
+HL2025-5236,Approved building plan,True,Lakshmi Reddy,,,Good
+HL2025-5237,PAN card,True,Kavya Verma,,,Good
+HL2025-5237,Aadhaar card,True,Kavya Verma,,,Good
+HL2025-5237,Income proof,True,Kavya Verma,31874.0,,Good
+HL2025-5237,Bank statements (6 months),True,Kavya Verma,,29476.0,Good
+HL2025-5237,Sale agreement,True,Kavya Verma,,,Good
+HL2025-5237,Property title deeds,False,,,,
+HL2025-5237,Approved building plan,True,Kavya Verma,,,Good
+HL2025-5238,PAN card,True,Meera Bose,,,Good
+HL2025-5238,Aadhaar card,True,Meera Bose,,,Good
+HL2025-5238,Income proof,False,,,,
+HL2025-5238,Bank statements (6 months),True,Meera Bose,,145889.0,Good
+HL2025-5238,Sale agreement,False,,,,
+HL2025-5238,Property title deeds,True,Meera Bose,,,Good
+HL2025-5238,Approved building plan,True,Meera Bose,,,Good
+HL2025-5239,PAN card,False,,,,
+HL2025-5239,Aadhaar card,True,Nisha Nair,,,Good
+HL2025-5239,Income proof,True,Nisha Nair,89006.0,,Good
+HL2025-5239,Bank statements (6 months),True,Nisha Nair,,83418.0,Good
+HL2025-5239,Sale agreement,False,,,,
+HL2025-5239,Property title deeds,True,Nisha Nair,,,Good
+HL2025-5239,Approved building plan,True,Nisha Nair,,,Good
+HL2025-5240,PAN card,True,Suresh Khan,,,Good
+HL2025-5240,Aadhaar card,True,Suresh Khan,,,Good
+HL2025-5240,Income proof,True,Suresh Khan,305938.0,,Good
+HL2025-5240,Bank statements (6 months),True,Suresh Khan,,301407.0,Good
+HL2025-5240,Sale agreement,True,Suresh Khan,,,Good
+HL2025-5240,Property title deeds,True,Suresh Khan,,,Good
+HL2025-5240,Approved building plan,True,Suresh Khan,,,Good
+HL2025-5241,PAN card,True,Swati Reddy,,,Good
+HL2025-5241,Aadhaar card,True,Swati Reddy,,,Good
+HL2025-5241,Income proof,True,Swati Reddy,63411.0,,Good
+HL2025-5241,Bank statements (6 months),True,Swati Reddy,,60837.0,Good
+HL2025-5241,Sale agreement,True,Swati Reddy,,,Good
+HL2025-5241,Property title deeds,True,Swati Reddy,,,Good
+HL2025-5241,Approved building plan,True,Swati Reddy,,,Good
+HL2025-5242,PAN card,True,Aditya Rao,,,Good
+HL2025-5242,Aadhaar card,True,Aditya Rao,,,Good
+HL2025-5242,Income proof,True,Aditya Rao,29557.0,,Good
+HL2025-5242,Bank statements (6 months),True,Aditya Rao,,30151.0,Good
+HL2025-5242,Sale agreement,True,Aditya Rao,,,Good
+HL2025-5242,Property title deeds,True,Aditya Rao,,,Good
+HL2025-5242,Approved building plan,True,Aditya Rao,,,Good
+HL2025-5243,PAN card,True,Amit Pillai,,,Good
+HL2025-5243,Aadhaar card,True,Amit Khan,,,Good
+HL2025-5243,Income proof,True,Amit Pillai,45785.0,,Good
+HL2025-5243,Bank statements (6 months),True,Amit Pillai,,44105.0,Good
+HL2025-5243,Sale agreement,True,Amit Pillai,,,Good
+HL2025-5243,Property title deeds,True,Amit Pillai,,,Good
+HL2025-5243,Approved building plan,True,Amit Pillai,,,Good
+HL2025-5244,PAN card,True,Harpreet Singh,,,Good
+HL2025-5244,Aadhaar card,True,Harpreet Singh,,,Good
+HL2025-5244,Income proof,True,Harpreet Singh,47523.0,,Good
+HL2025-5244,Bank statements (6 months),True,Harpreet Singh,,45302.0,Good
+HL2025-5244,Sale agreement,True,Harpreet Singh,,,Good
+HL2025-5244,Property title deeds,True,Harpreet Singh,,,Good
+HL2025-5244,Approved building plan,True,Harpreet Singh,,,Good
+HL2025-5245,PAN card,True,Harpreet Das,,,Good
+HL2025-5245,Aadhaar card,True,Harpreet Das,,,Good
+HL2025-5245,Income proof,True,Harpreet Das,151873.0,,Good
+HL2025-5245,Bank statements (6 months),True,Harpreet Das,,155153.0,Good
+HL2025-5245,Sale agreement,True,Harpreet Das,,,Good
+HL2025-5245,Property title deeds,True,Harpreet Das,,,Good
+HL2025-5245,Approved building plan,False,,,,
+HL2025-5246,PAN card,True,Suresh Bose,,,Good
+HL2025-5246,Aadhaar card,True,Suresh Bose,,,Good
+HL2025-5246,Income proof,True,Suresh Bose,66372.0,,Good
+HL2025-5246,Bank statements (6 months),True,Suresh Bose,,66534.0,Good
+HL2025-5246,Sale agreement,True,Suresh Bose,,,Good
+HL2025-5246,Property title deeds,True,Suresh Bose,,,Good
+HL2025-5246,Approved building plan,True,Suresh Bose,,,Good
+HL2025-5247,PAN card,True,Swati Joshi,,,Good
+HL2025-5247,Aadhaar card,True,Swati Joshi,,,Good
+HL2025-5247,Income proof,True,Swati Joshi,52050.0,,Good
+HL2025-5247,Bank statements (6 months),True,Swati Joshi,,64252.0,Good
+HL2025-5247,Sale agreement,True,Swati Joshi,,,Good
+HL2025-5247,Property title deeds,True,Swati Joshi,,,Good
+HL2025-5247,Approved building plan,True,Swati Joshi,,,Good
+HL2025-5248,PAN card,True,Ananya Gupta,,,Good
+HL2025-5248,Aadhaar card,True,Ananya Gupta,,,Good
+HL2025-5248,Income proof,True,Ananya Gupta,143741.0,,Good
+HL2025-5248,Bank statements (6 months),True,Ananya Gupta,,132240.0,Good
+HL2025-5248,Sale agreement,True,Ananya Gupta,,,Good
+HL2025-5248,Property title deeds,True,Ananya Gupta,,,Good
+HL2025-5248,Approved building plan,True,Ananya Gupta,,,Good
+HL2025-5249,PAN card,True,Arjun Menon,,,Good
+HL2025-5249,Aadhaar card,True,Arjun Menon,,,Good
+HL2025-5249,Income proof,True,Arjun Menon,38030.0,,Good
+HL2025-5249,Bank statements (6 months),True,Arjun Menon,,41897.0,Good
+HL2025-5249,Sale agreement,True,Arjun Menon,,,Good
+HL2025-5249,Property title deeds,True,Arjun Menon,,,Good
+HL2025-5249,Approved building plan,True,Arjun Menon,,,Good
+HL2025-5250,PAN card,True,Shweta Pillai,,,Good
+HL2025-5250,Aadhaar card,True,Shweta Pillai,,,Good
+HL2025-5250,Income proof,True,Shweta Pillai,43086.0,,Good
+HL2025-5250,Bank statements (6 months),True,Shweta Pillai,,40776.0,Good
+HL2025-5250,Sale agreement,True,Shweta Pillai,,,Good
+HL2025-5250,Property title deeds,True,Shweta Pillai,,,Good
+HL2025-5250,Approved building plan,True,Shweta Pillai,,,Good
+HL2025-5251,PAN card,False,,,,
+HL2025-5251,Aadhaar card,True,Ravi Das,,,Good
+HL2025-5251,Income proof,True,Ravi Das,104336.0,,Good
+HL2025-5251,Bank statements (6 months),True,Ravi Das,,114829.0,Good
+HL2025-5251,Sale agreement,True,Ravi Das,,,Good
+HL2025-5251,Property title deeds,True,Ravi Das,,,Good
+HL2025-5251,Approved building plan,True,Ravi Das,,,Good
+HL2025-5252,PAN card,True,Imran Pillai,,,Good
+HL2025-5252,Aadhaar card,False,,,,
+HL2025-5252,Income proof,True,Imran Pillai,20866.0,,Good
+HL2025-5252,Bank statements (6 months),False,,,,
+HL2025-5252,Sale agreement,True,Imran Pillai,,,Good
+HL2025-5252,Property title deeds,True,Imran Pillai,,,Good
+HL2025-5252,Approved building plan,True,Imran Pillai,,,Good
+HL2025-5253,PAN card,True,Arjun Shetty,,,Good
+HL2025-5253,Aadhaar card,True,Arjun Shetty,,,Good
+HL2025-5253,Income proof,True,Arjun Shetty,48203.0,,Good
+HL2025-5253,Bank statements (6 months),True,Arjun Shetty,,46396.0,Good
+HL2025-5253,Sale agreement,True,Arjun Shetty,,,Good
+HL2025-5253,Property title deeds,True,Arjun Shetty,,,Good
+HL2025-5253,Approved building plan,True,Arjun Shetty,,,Good
+HL2025-5254,PAN card,True,Nisha Menon,,,Good
+HL2025-5254,Aadhaar card,True,Nisha Menon,,,Good
+HL2025-5254,Income proof,True,Nisha Menon,47690.0,,Good
+HL2025-5254,Bank statements (6 months),True,Nisha Menon,,48708.0,Good
+HL2025-5254,Sale agreement,True,Nisha Menon,,,Good
+HL2025-5254,Property title deeds,True,Nisha Menon,,,Good
+HL2025-5254,Approved building plan,True,Nisha Menon,,,Good
+HL2025-5255,PAN card,True,Neha Das,,,Good
+HL2025-5255,Aadhaar card,True,Neha Das,,,Good
+HL2025-5255,Income proof,True,Neha Das,65442.0,,Good
+HL2025-5255,Bank statements (6 months),True,Neha Das,,62283.0,Good
+HL2025-5255,Sale agreement,True,Neha Das,,,Good
+HL2025-5255,Property title deeds,True,Neha Das,,,Good
+HL2025-5255,Approved building plan,True,Neha Das,,,Good
+HL2025-5256,PAN card,True,Karthik Patel,,,Good
+HL2025-5256,Aadhaar card,True,Karthik Patel,,,Good
+HL2025-5256,Income proof,True,Karthik Patel,77241.0,,Good
+HL2025-5256,Bank statements (6 months),True,Karthik Patel,,79002.0,Good
+HL2025-5256,Sale agreement,True,Karthik Patel,,,Good
+HL2025-5256,Property title deeds,True,Karthik Patel,,,Good
+HL2025-5256,Approved building plan,True,Karthik Patel,,,Good
+HL2025-5257,PAN card,True,Imran Malhotra,,,Good
+HL2025-5257,Aadhaar card,True,Imran Malhotra,,,Good
+HL2025-5257,Income proof,True,Imran Malhotra,57559.0,,Good
+HL2025-5257,Bank statements (6 months),True,Imran Malhotra,,53430.0,Good
+HL2025-5257,Sale agreement,True,Imran Malhotra,,,Good
+HL2025-5257,Property title deeds,True,Imran Malhotra,,,Good
+HL2025-5257,Approved building plan,True,Imran Malhotra,,,Good
+HL2025-5258,PAN card,True,Vikram Chopra,,,Good
+HL2025-5258,Aadhaar card,True,Vikram Chopra,,,Good
+HL2025-5258,Income proof,True,Vikram Chopra,47658.0,,Good
+HL2025-5258,Bank statements (6 months),True,Vikram Chopra,,48540.0,Good
+HL2025-5258,Sale agreement,True,Vikram Chopra,,,Poor
+HL2025-5258,Property title deeds,True,Vikram Chopra,,,Good
+HL2025-5258,Approved building plan,True,Vikram Chopra,,,Good
+HL2025-5259,PAN card,True,Shweta Malhotra,,,Good
+HL2025-5259,Aadhaar card,True,Shweta Malhotra,,,Good
+HL2025-5259,Income proof,True,Shweta Malhotra,86243.0,,Good
+HL2025-5259,Bank statements (6 months),True,Shweta Malhotra,,86738.0,Good
+HL2025-5259,Sale agreement,True,Shweta Malhotra,,,Good
+HL2025-5259,Property title deeds,True,Shweta Malhotra,,,Good
+HL2025-5259,Approved building plan,True,Shweta Malhotra,,,Good
+HL2025-5260,PAN card,True,Pooja Joshi,,,Good
+HL2025-5260,Aadhaar card,True,Pooja Joshi,,,Good
+HL2025-5260,Income proof,True,Pooja Joshi,50330.0,,Good
+HL2025-5260,Bank statements (6 months),True,Pooja Joshi,,64227.0,Good
+HL2025-5260,Sale agreement,True,Pooja Joshi,,,Good
+HL2025-5260,Property title deeds,True,Pooja Joshi,,,Good
+HL2025-5260,Approved building plan,True,Pooja Joshi,,,Good
+HL2025-5261,PAN card,True,Priya Joshi,,,Good
+HL2025-5261,Aadhaar card,True,Priya Joshi,,,Good
+HL2025-5261,Income proof,True,Priya Joshi,27982.0,,Good
+HL2025-5261,Bank statements (6 months),True,Priya Joshi,,27868.0,Good
+HL2025-5261,Sale agreement,False,,,,
+HL2025-5261,Property title deeds,True,Priya Joshi,,,Good
+HL2025-5261,Approved building plan,True,Priya Joshi,,,Good
+HL2025-5262,PAN card,True,Lakshmi Chopra,,,Good
+HL2025-5262,Aadhaar card,True,Lakshmi Chopra,,,Good
+HL2025-5262,Income proof,True,Lakshmi Chopra,48334.0,,Good
+HL2025-5262,Bank statements (6 months),True,Lakshmi Chopra,,48387.0,Good
+HL2025-5262,Sale agreement,False,,,,
+HL2025-5262,Property title deeds,True,Lakshmi Chopra,,,Good
+HL2025-5262,Approved building plan,True,Lakshmi Chopra,,,Good
+HL2025-5263,PAN card,True,Fatima Malhotra,,,Good
+HL2025-5263,Aadhaar card,True,Fatima Malhotra,,,Good
+HL2025-5263,Income proof,True,Fatima Malhotra,29703.0,,Good
+HL2025-5263,Bank statements (6 months),True,Fatima Malhotra,,46658.0,Good
+HL2025-5263,Sale agreement,True,Fatima Malhotra,,,Good
+HL2025-5263,Property title deeds,True,Fatima Malhotra,,,Good
+HL2025-5263,Approved building plan,True,Fatima Malhotra,,,Good
+HL2025-5264,PAN card,True,Imran Sharma,,,Good
+HL2025-5264,Aadhaar card,True,Imran Sharma,,,Good
+HL2025-5264,Income proof,True,Imran Sharma,28938.0,,Good
+HL2025-5264,Bank statements (6 months),True,Imran Sharma,,30814.0,Good
+HL2025-5264,Sale agreement,True,Imran Sharma,,,Good
+HL2025-5264,Property title deeds,True,Imran Sharma,,,Good
+HL2025-5264,Approved building plan,True,Imran Sharma,,,Good
+HL2025-5265,PAN card,True,Fatima Malhotra,,,Good
+HL2025-5265,Aadhaar card,True,Fatima Malhotra,,,Good
+HL2025-5265,Income proof,True,Fatima Malhotra,74623.0,,Good
+HL2025-5265,Bank statements (6 months),True,Fatima Malhotra,,72209.0,Good
+HL2025-5265,Sale agreement,True,Fatima Malhotra,,,Good
+HL2025-5265,Property title deeds,True,Fatima Malhotra,,,Good
+HL2025-5265,Approved building plan,True,Fatima Malhotra,,,Good
+HL2025-5266,PAN card,True,Ananya Chopra,,,Good
+HL2025-5266,Aadhaar card,True,Ananya Chopra,,,Good
+HL2025-5266,Income proof,True,Ananya Chopra,93632.0,,Good
+HL2025-5266,Bank statements (6 months),True,Ananya Chopra,,94156.0,Good
+HL2025-5266,Sale agreement,True,Ananya Chopra,,,Good
+HL2025-5266,Property title deeds,True,Ananya Chopra,,,Good
+HL2025-5266,Approved building plan,True,Ananya Chopra,,,Good
+HL2025-5267,PAN card,True,Ananya Shetty,,,Good
+HL2025-5267,Aadhaar card,True,Ananya Shetty,,,Good
+HL2025-5267,Income proof,True,Ananya Shetty,64867.0,,Good
+HL2025-5267,Bank statements (6 months),True,Ananya Shetty,,68008.0,Good
+HL2025-5267,Sale agreement,True,Ananya Shetty,,,Good
+HL2025-5267,Property title deeds,True,Ananya Shetty,,,Good
+HL2025-5267,Approved building plan,True,Ananya Shetty,,,Good
+HL2025-5268,PAN card,False,,,,
+HL2025-5268,Aadhaar card,True,Rahul Patel,,,Good
+HL2025-5268,Income proof,True,Rahul Shetty,47552.0,,Good
+HL2025-5268,Bank statements (6 months),True,Rahul Shetty,,42552.0,Good
+HL2025-5268,Sale agreement,True,Rahul Shetty,,,Good
+HL2025-5268,Property title deeds,True,Rahul Shetty,,,Good
+HL2025-5268,Approved building plan,True,Rahul Shetty,,,Good
+HL2025-5269,PAN card,True,Ananya Chopra,,,Good
+HL2025-5269,Aadhaar card,True,Ananya Chopra,,,Good
+HL2025-5269,Income proof,True,Ananya Chopra,41766.0,,Good
+HL2025-5269,Bank statements (6 months),True,Ananya Chopra,,40010.0,Good
+HL2025-5269,Sale agreement,False,,,,
+HL2025-5269,Property title deeds,True,Ananya Chopra,,,Good
+HL2025-5269,Approved building plan,True,Ananya Chopra,,,Good
+HL2025-5270,PAN card,True,Sneha Menon,,,Good
+HL2025-5270,Aadhaar card,True,Sneha Menon,,,Good
+HL2025-5270,Income proof,True,Sneha Menon,107913.0,,Good
+HL2025-5270,Bank statements (6 months),True,Sneha Menon,,116578.0,Good
+HL2025-5270,Sale agreement,False,,,,
+HL2025-5270,Property title deeds,True,Sneha Menon,,,Good
+HL2025-5270,Approved building plan,True,Sneha Menon,,,Good
+HL2025-5271,PAN card,True,Priya Bose,,,Good
+HL2025-5271,Aadhaar card,True,Priya Bose,,,Good
+HL2025-5271,Income proof,True,Priya Bose,100080.0,,Good
+HL2025-5271,Bank statements (6 months),True,Priya Bose,,108705.0,Good
+HL2025-5271,Sale agreement,True,Priya Bose,,,Good
+HL2025-5271,Property title deeds,True,Priya Bose,,,Good
+HL2025-5271,Approved building plan,True,Priya Bose,,,Good
+HL2025-5272,PAN card,True,Shweta Shetty,,,Good
+HL2025-5272,Aadhaar card,True,Shweta Shetty,,,Good
+HL2025-5272,Income proof,True,Shweta Shetty,88007.0,,Good
+HL2025-5272,Bank statements (6 months),True,Shweta Shetty,,88110.0,Good
+HL2025-5272,Sale agreement,True,Shweta Shetty,,,Good
+HL2025-5272,Property title deeds,True,Shweta Shetty,,,Good
+HL2025-5272,Approved building plan,True,Shweta Shetty,,,Good
+HL2025-5273,PAN card,True,Manish Iyer,,,Good
+HL2025-5273,Aadhaar card,True,Manish Iyer,,,Good
+HL2025-5273,Income proof,True,Manish Iyer,25277.0,,Good
+HL2025-5273,Bank statements (6 months),True,Manish Iyer,,26767.0,Good
+HL2025-5273,Sale agreement,True,Manish Iyer,,,Good
+HL2025-5273,Property title deeds,True,Manish Iyer,,,Good
+HL2025-5273,Approved building plan,True,Manish Iyer,,,Good
+HL2025-5274,PAN card,True,Ananya Chopra,,,Good
+HL2025-5274,Aadhaar card,True,Ananya Chopra,,,Good
+HL2025-5274,Income proof,True,Ananya Chopra,87853.0,,Good
+HL2025-5274,Bank statements (6 months),True,Ananya Chopra,,82051.0,Good
+HL2025-5274,Sale agreement,True,Ananya Chopra,,,Good
+HL2025-5274,Property title deeds,True,Ananya Chopra,,,Good
+HL2025-5274,Approved building plan,True,Ananya Chopra,,,Good
+HL2025-5275,PAN card,True,Kavya Chopra,,,Good
+HL2025-5275,Aadhaar card,True,Kavya Chopra,,,Good
+HL2025-5275,Income proof,True,Kavya Chopra,78970.0,,Good
+HL2025-5275,Bank statements (6 months),True,Kavya Chopra,,79897.0,Poor
+HL2025-5275,Sale agreement,True,Kavya Chopra,,,Good
+HL2025-5275,Property title deeds,True,Kavya Chopra,,,Good
+HL2025-5275,Approved building plan,True,Kavya Chopra,,,Good
+HL2025-5276,PAN card,True,Harpreet Iyer,,,Good
+HL2025-5276,Aadhaar card,True,Harpreet Iyer,,,Good
+HL2025-5276,Income proof,True,Harpreet Iyer,67401.0,,Good
+HL2025-5276,Bank statements (6 months),True,Harpreet Iyer,,69855.0,Good
+HL2025-5276,Sale agreement,True,Harpreet Iyer,,,Poor
+HL2025-5276,Property title deeds,True,Harpreet Iyer,,,Good
+HL2025-5276,Approved building plan,True,Harpreet Iyer,,,Good
+HL2025-5277,PAN card,True,Shweta Khan,,,Good
+HL2025-5277,Aadhaar card,True,Shweta Khan,,,Good
+HL2025-5277,Income proof,True,Shweta Khan,118738.0,,Good
+HL2025-5277,Bank statements (6 months),True,Shweta Khan,,107389.0,Good
+HL2025-5277,Sale agreement,True,Shweta Khan,,,Good
+HL2025-5277,Property title deeds,True,Shweta Khan,,,Good
+HL2025-5277,Approved building plan,True,Shweta Khan,,,Good
+HL2025-5278,PAN card,True,Vikram Chopra,,,Good
+HL2025-5278,Aadhaar card,True,Vikram Chopra,,,Good
+HL2025-5278,Income proof,True,Vikram Chopra,78034.0,,Good
+HL2025-5278,Bank statements (6 months),True,Vikram Chopra,,72041.0,Good
+HL2025-5278,Sale agreement,False,,,,
+HL2025-5278,Property title deeds,True,Vikram Chopra,,,Good
+HL2025-5278,Approved building plan,False,,,,
+HL2025-5279,PAN card,True,Shweta Joshi,,,Good
+HL2025-5279,Aadhaar card,True,Shweta Joshi,,,Good
+HL2025-5279,Income proof,True,Shweta Joshi,49942.0,,Good
+HL2025-5279,Bank statements (6 months),True,Shweta Joshi,,54255.0,Good
+HL2025-5279,Sale agreement,True,Shweta Joshi,,,Good
+HL2025-5279,Property title deeds,True,Shweta Joshi,,,Good
+HL2025-5279,Approved building plan,True,Shweta Joshi,,,Good
+HL2025-5280,PAN card,True,Meera Mehta,,,Good
+HL2025-5280,Aadhaar card,True,Meera Mehta,,,Good
+HL2025-5280,Income proof,True,Meera Mehta,78876.0,,Good
+HL2025-5280,Bank statements (6 months),True,Meera Mehta,,78640.0,Good
+HL2025-5280,Sale agreement,True,Meera Mehta,,,Good
+HL2025-5280,Property title deeds,True,Meera Mehta,,,Good
+HL2025-5280,Approved building plan,True,Meera Mehta,,,Good
+HL2025-5281,PAN card,True,Deepak Khan,,,Good
+HL2025-5281,Aadhaar card,False,,,,
+HL2025-5281,Income proof,True,Deepak Khan,75811.0,,Good
+HL2025-5281,Bank statements (6 months),True,Deepak Khan,,80478.0,Good
+HL2025-5281,Sale agreement,True,Deepak Khan,,,Good
+HL2025-5281,Property title deeds,True,Deepak Khan,,,Good
+HL2025-5281,Approved building plan,True,Deepak Khan,,,Good
+HL2025-5282,PAN card,False,,,,
+HL2025-5282,Aadhaar card,True,Suresh Malhotra,,,Good
+HL2025-5282,Income proof,True,Suresh Malhotra,64552.0,,Good
+HL2025-5282,Bank statements (6 months),True,Suresh Malhotra,,107287.0,Good
+HL2025-5282,Sale agreement,True,Suresh Malhotra,,,Good
+HL2025-5282,Property title deeds,True,Suresh Malhotra,,,Good
+HL2025-5282,Approved building plan,True,Suresh Malhotra,,,Good
+HL2025-5283,PAN card,True,Karthik Chopra,,,Good
+HL2025-5283,Aadhaar card,True,Karthik Chopra,,,Good
+HL2025-5283,Income proof,True,Karthik Chopra,119294.0,,Good
+HL2025-5283,Bank statements (6 months),True,Karthik Chopra,,121286.0,Good
+HL2025-5283,Sale agreement,True,Karthik Chopra,,,Good
+HL2025-5283,Property title deeds,True,Karthik Chopra,,,Good
+HL2025-5283,Approved building plan,True,Karthik Chopra,,,Good
+HL2025-5284,PAN card,True,Nisha Mehta,,,Good
+HL2025-5284,Aadhaar card,True,Nisha Mehta,,,Good
+HL2025-5284,Income proof,True,Nisha Mehta,24557.0,,Good
+HL2025-5284,Bank statements (6 months),True,Nisha Mehta,,26441.0,Good
+HL2025-5284,Sale agreement,True,Nisha Mehta,,,Good
+HL2025-5284,Property title deeds,True,Nisha Mehta,,,Good
+HL2025-5284,Approved building plan,True,Nisha Mehta,,,Good
+HL2025-5285,PAN card,True,Vihaan Patel,,,Good
+HL2025-5285,Aadhaar card,True,Vihaan Patel,,,Good
+HL2025-5285,Income proof,True,Vihaan Patel,25337.0,,Good
+HL2025-5285,Bank statements (6 months),True,Vihaan Patel,,23130.0,Poor
+HL2025-5285,Sale agreement,True,Vihaan Patel,,,Good
+HL2025-5285,Property title deeds,True,Vihaan Patel,,,Good
+HL2025-5285,Approved building plan,True,Vihaan Patel,,,Good
+HL2025-5286,PAN card,True,Deepak Patel,,,Good
+HL2025-5286,Aadhaar card,True,Deepak Patel,,,Good
+HL2025-5286,Income proof,True,Deepak Patel,66366.0,,Good
+HL2025-5286,Bank statements (6 months),True,Deepak Patel,,69618.0,Good
+HL2025-5286,Sale agreement,True,Deepak Patel,,,Poor
+HL2025-5286,Property title deeds,True,Deepak Patel,,,Good
+HL2025-5286,Approved building plan,True,Deepak Patel,,,Good
+HL2025-5287,PAN card,True,Meera Malhotra,,,Good
+HL2025-5287,Aadhaar card,True,Meera Malhotra,,,Good
+HL2025-5287,Income proof,True,Meera Malhotra,75266.0,,Good
+HL2025-5287,Bank statements (6 months),True,Meera Malhotra,,80647.0,Good
+HL2025-5287,Sale agreement,True,Meera Malhotra,,,Good
+HL2025-5287,Property title deeds,True,Meera Malhotra,,,Good
+HL2025-5287,Approved building plan,True,Meera Malhotra,,,Poor
+HL2025-5288,PAN card,True,Nisha Gupta,,,Good
+HL2025-5288,Aadhaar card,True,Nisha Gupta,,,Good
+HL2025-5288,Income proof,True,Nisha Gupta,99102.0,,Good
+HL2025-5288,Bank statements (6 months),True,Nisha Gupta,,105695.0,Good
+HL2025-5288,Sale agreement,True,Nisha Gupta,,,Good
+HL2025-5288,Property title deeds,True,Nisha Gupta,,,Good
+HL2025-5288,Approved building plan,True,Nisha Gupta,,,Good
+HL2025-5289,PAN card,True,Aditya Pillai,,,Good
+HL2025-5289,Aadhaar card,True,Aditya Pillai,,,Good
+HL2025-5289,Income proof,True,Aditya Pillai,72215.0,,Good
+HL2025-5289,Bank statements (6 months),True,Aditya Pillai,,78860.0,Good
+HL2025-5289,Sale agreement,True,Aditya Pillai,,,Good
+HL2025-5289,Property title deeds,True,Aditya Pillai,,,Good
+HL2025-5289,Approved building plan,True,Aditya Pillai,,,Good
+HL2025-5290,PAN card,True,Swati Rao,,,Good
+HL2025-5290,Aadhaar card,True,Swati Rao,,,Good
+HL2025-5290,Income proof,True,Swati Rao,30804.0,,Good
+HL2025-5290,Bank statements (6 months),True,Swati Rao,,30992.0,Good
+HL2025-5290,Sale agreement,True,Swati Rao,,,Good
+HL2025-5290,Property title deeds,True,Swati Rao,,,Good
+HL2025-5290,Approved building plan,True,Swati Rao,,,Good
+HL2025-5291,PAN card,True,Meera Iyer,,,Good
+HL2025-5291,Aadhaar card,False,,,,
+HL2025-5291,Income proof,True,Meera Iyer,76265.0,,Good
+HL2025-5291,Bank statements (6 months),True,Meera Iyer,,83667.0,Good
+HL2025-5291,Sale agreement,True,Meera Iyer,,,Good
+HL2025-5291,Property title deeds,True,Meera Iyer,,,Good
+HL2025-5291,Approved building plan,False,,,,
+HL2025-5292,PAN card,True,Sanjay Das,,,Good
+HL2025-5292,Aadhaar card,True,Sanjay Das,,,Good
+HL2025-5292,Income proof,True,Sanjay Das,89506.0,,Good
+HL2025-5292,Bank statements (6 months),True,Sanjay Das,,91291.0,Good
+HL2025-5292,Sale agreement,True,Sanjay Das,,,Good
+HL2025-5292,Property title deeds,True,Sanjay Das,,,Good
+HL2025-5292,Approved building plan,True,Sanjay Das,,,Poor
+HL2025-5293,PAN card,True,Vihaan Verma,,,Good
+HL2025-5293,Aadhaar card,True,Vihaan Verma,,,Good
+HL2025-5293,Income proof,True,Vihaan Verma,70050.0,,Good
+HL2025-5293,Bank statements (6 months),True,Vihaan Verma,,77602.0,Good
+HL2025-5293,Sale agreement,True,Vihaan Verma,,,Good
+HL2025-5293,Property title deeds,True,Vihaan Verma,,,Good
+HL2025-5293,Approved building plan,True,Vihaan Verma,,,Good
+HL2025-5294,PAN card,True,Shweta Chopra,,,Good
+HL2025-5294,Aadhaar card,True,Shweta Chopra,,,Good
+HL2025-5294,Income proof,True,Shweta Chopra,53248.0,,Good
+HL2025-5294,Bank statements (6 months),True,Shweta Chopra,,51742.0,Good
+HL2025-5294,Sale agreement,True,Shweta Chopra,,,Good
+HL2025-5294,Property title deeds,True,Shweta Chopra,,,Good
+HL2025-5294,Approved building plan,True,Shweta Chopra,,,Good
+HL2025-5295,PAN card,True,Priya Menon,,,Good
+HL2025-5295,Aadhaar card,True,Priya Menon,,,Good
+HL2025-5295,Income proof,True,Priya Menon,101798.0,,Good
+HL2025-5295,Bank statements (6 months),True,Priya Menon,,98192.0,Good
+HL2025-5295,Sale agreement,True,Priya Menon,,,Good
+HL2025-5295,Property title deeds,True,Priya Menon,,,Good
+HL2025-5295,Approved building plan,True,Priya Menon,,,Good
+HL2025-5296,PAN card,True,Karthik Kulkarni,,,Good
+HL2025-5296,Aadhaar card,True,Karthik Kulkarni,,,Good
+HL2025-5296,Income proof,True,Karthik Kulkarni,68530.0,,Good
+HL2025-5296,Bank statements (6 months),True,Karthik Kulkarni,,65400.0,Good
+HL2025-5296,Sale agreement,True,Karthik Kulkarni,,,Good
+HL2025-5296,Property title deeds,False,,,,
+HL2025-5296,Approved building plan,True,Karthik Kulkarni,,,Good
+HL2025-5297,PAN card,True,Amit Sharma,,,Good
+HL2025-5297,Aadhaar card,True,Amit Sharma,,,Good
+HL2025-5297,Income proof,True,Amit Sharma,84013.0,,Good
+HL2025-5297,Bank statements (6 months),True,Amit Sharma,,86658.0,Good
+HL2025-5297,Sale agreement,False,,,,
+HL2025-5297,Property title deeds,True,Amit Sharma,,,Good
+HL2025-5297,Approved building plan,False,,,,
+HL2025-5298,PAN card,True,Neha Menon,,,Good
+HL2025-5298,Aadhaar card,True,Neha Menon,,,Good
+HL2025-5298,Income proof,True,Neha Menon,108233.0,,Good
+HL2025-5298,Bank statements (6 months),True,Neha Menon,,107013.0,Good
+HL2025-5298,Sale agreement,True,Neha Menon,,,Good
+HL2025-5298,Property title deeds,True,Neha Menon,,,Good
+HL2025-5298,Approved building plan,True,Neha Menon,,,Good
+HL2025-5299,PAN card,True,Shweta Patel,,,Good
+HL2025-5299,Aadhaar card,True,Shweta Patel,,,Good
+HL2025-5299,Income proof,True,Shweta Patel,45369.0,,Good
+HL2025-5299,Bank statements (6 months),True,Shweta Patel,,54553.0,Good
+HL2025-5299,Sale agreement,True,Shweta Patel,,,Good
+HL2025-5299,Property title deeds,True,Shweta Patel,,,Good
+HL2025-5299,Approved building plan,True,Shweta Patel,,,Good
+HL2025-5300,PAN card,True,Manish Singh,,,Good
+HL2025-5300,Aadhaar card,True,Manish Singh,,,Good
+HL2025-5300,Income proof,True,Manish Singh,34299.0,,Good
+HL2025-5300,Bank statements (6 months),True,Manish Singh,,48281.0,Good
+HL2025-5300,Sale agreement,True,Manish Singh,,,Good
+HL2025-5300,Property title deeds,True,Manish Singh,,,Good
+HL2025-5300,Approved building plan,True,Manish Singh,,,Good
