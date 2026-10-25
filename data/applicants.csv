@@ -1,0 +1,301 @@
+applicant_id,name,age,city,employment_type,employer,monthly_income,existing_emi,years_with_bank,avg_balance
+CUST1001,Ritu Mehta,34,Hyderabad,Salaried,HDFC Life,84000,0,4,254000
+CUST1002,Aditya Pillai,48,Ahmedabad,Self-employed,Self (own business),91000,22500,1,37300
+CUST1003,Lakshmi Sharma,34,Jaipur,Salaried,HDFC Life,58000,14500,13,64700
+CUST1004,Nisha Khan,42,Ahmedabad,Salaried,Tata Motors,145000,0,8,126900
+CUST1005,Rohan Reddy,40,Ahmedabad,Government,TCS,52000,4000,11,178600
+CUST1006,Ritu Bose,32,Jaipur,Salaried,TCS,52000,0,12,30700
+CUST1007,Pooja Singh,22,Pune,Salaried,Infosys,74000,5500,7,233800
+CUST1008,Swati Patel,31,Ahmedabad,Government,Reliance Retail,27000,0,14,71600
+CUST1009,Priya Singh,38,Chennai,Salaried,Fortis Healthcare,39000,3000,2,99500
+CUST1010,Suresh Bose,24,Ahmedabad,Salaried,Reliance Retail,42000,0,7,118900
+CUST1011,Manish Iyer,34,Delhi NCR,Self-employed,Self (own business),137000,0,12,176800
+CUST1012,Imran Chopra,24,Ahmedabad,Salaried,Zomato,68000,5000,14,56300
+CUST1013,Neha Mehta,36,Kochi,Salaried,Apollo Hospitals,50000,12500,12,81900
+CUST1014,Fatima Chopra,39,Pune,Government,Infosys,37000,0,3,32000
+CUST1015,Lakshmi Reddy,33,Ahmedabad,Salaried,Apollo Hospitals,49000,4500,14,110600
+CUST1016,Sanjay Patel,50,Jaipur,Government,Reliance Retail,48000,0,10,34200
+CUST1017,Aarav Mehta,27,Jaipur,Salaried,Wipro,65000,9500,3,228800
+CUST1018,Lakshmi Singh,26,Bengaluru,Salaried,Tata Motors,99000,24500,5,227200
+CUST1019,Shweta Sharma,22,Kochi,Self-employed,Self (own business),73000,18000,10,153800
+CUST1020,Ravi Das,37,Hyderabad,Salaried,Infosys,34000,2500,7,120600
+CUST1021,Ritu Chopra,37,Pune,Government,Local School Trust,95000,0,4,73600
+CUST1022,Suresh Mehta,33,Jaipur,Salaried,Mahindra Logistics,62000,15500,13,239800
+CUST1023,Deepak Das,30,Ahmedabad,Government,Zomato,31000,0,11,59500
+CUST1024,Manish Gupta,44,Pune,Salaried,Tata Motors,52000,0,0,128700
+CUST1025,Aarav Reddy,22,Mumbai,Salaried,HDFC Life,78000,0,2,284700
+CUST1026,Fatima Gupta,32,Chennai,Self-employed,Self (own business),77000,0,15,84100
+CUST1027,Manish Chopra,40,Ahmedabad,Salaried,HDFC Life,47000,7000,3,30900
+CUST1028,Kavya Bose,43,Mumbai,Salaried,Zomato,110000,11000,3,57600
+CUST1029,Manish Singh,33,Hyderabad,Self-employed,Self (own business),43000,0,14,35200
+CUST1030,Manish Reddy,43,Kolkata,Salaried,Local School Trust,78000,11500,3,37900
+CUST1031,Aditya Gupta,34,Bengaluru,Government,Apollo Hospitals,52000,0,15,108200
+CUST1032,Suresh Menon,26,Mumbai,Self-employed,Self (own business),38000,0,12,48600
+CUST1033,Arjun Verma,46,Jaipur,Self-employed,Self (own business),99000,14500,15,86400
+CUST1034,Pooja Shetty,44,Mumbai,Salaried,Fortis Healthcare,63000,0,10,32200
+CUST1035,Shweta Rao,30,Bengaluru,Salaried,Infosys,79000,19500,2,272500
+CUST1036,Sanjay Gupta,48,Ahmedabad,Salaried,TCS,79000,0,7,192900
+CUST1037,Kavya Pillai,48,Kochi,Salaried,Local School Trust,64000,0,10,240500
+CUST1038,Manish Mehta,42,Ahmedabad,Salaried,Wipro,25000,2000,9,49700
+CUST1039,Aarav Bose,33,Kochi,Government,Mahindra Logistics,69000,0,3,39400
+CUST1040,Karthik Kulkarni,22,Pune,Salaried,HDFC Life,69000,3000,11,93400
+CUST1041,Deepak Das,38,Kochi,Salaried,Zomato,59000,14500,0,163400
+CUST1042,Ravi Nair,31,Chennai,Salaried,TCS,138000,0,3,420400
+CUST1043,Lakshmi Singh,31,Delhi NCR,Salaried,HDFC Life,44000,2000,8,95400
+CUST1044,Aditya Verma,38,Chennai,Salaried,Infosys,104000,0,0,159500
+CUST1045,Suresh Bose,40,Jaipur,Salaried,Fortis Healthcare,50000,2500,13,118700
+CUST1046,Neha Iyer,43,Delhi NCR,Salaried,Mahindra Logistics,69000,0,4,130400
+CUST1047,Ravi Iyer,33,Delhi NCR,Salaried,HDFC Life,46000,3500,7,127300
+CUST1048,Ravi Verma,24,Kochi,Salaried,Fortis Healthcare,54000,13500,4,201100
+CUST1049,Vikram Khan,38,Ahmedabad,Salaried,Infosys,76000,0,5,229900
+CUST1050,Vikram Gupta,34,Chennai,Salaried,Wipro,66000,6500,3,113200
+CUST1051,Manish Singh,32,Kolkata,Salaried,Tata Motors,32000,4500,9,106700
+CUST1052,Aarav Singh,29,Ahmedabad,Government,Tata Motors,55000,0,8,192300
+CUST1053,Priya Rao,39,Ahmedabad,Government,Zomato,61000,3000,10,230200
+CUST1054,Suresh Pillai,37,Chennai,Salaried,Infosys,169000,8000,3,423700
+CUST1055,Kavya Malhotra,35,Jaipur,Salaried,TCS,75000,6000,12,272100
+CUST1056,Deepak Verma,35,Mumbai,Salaried,Local School Trust,25000,0,6,41100
+CUST1057,Lakshmi Joshi,55,Pune,Salaried,Fortis Healthcare,68000,5000,9,147900
+CUST1058,Sneha Das,38,Jaipur,Self-employed,Self (own business),60000,4500,4,60500
+CUST1059,Sanjay Khan,26,Kochi,Self-employed,Self (own business),65000,6500,9,117100
+CUST1060,Arjun Singh,42,Ahmedabad,Self-employed,Self (own business),117000,5500,10,236300
+CUST1061,Fatima Chopra,28,Bengaluru,Salaried,Zomato,98000,0,2,132300
+CUST1062,Aditya Gupta,24,Chennai,Self-employed,Self (own business),133000,10500,7,436800
+CUST1063,Manish Chopra,53,Kochi,Salaried,TCS,88000,0,14,161300
+CUST1064,Deepak Menon,31,Kolkata,Salaried,Apollo Hospitals,40000,0,7,33800
+CUST1065,Nisha Verma,31,Hyderabad,Self-employed,Self (own business),69000,0,5,225900
+CUST1066,Vihaan Shetty,36,Hyderabad,Self-employed,Self (own business),30000,4500,3,59600
+CUST1067,Neha Malhotra,39,Delhi NCR,Self-employed,Self (own business),38000,9500,14,97500
+CUST1068,Kavya Shetty,48,Kolkata,Self-employed,Self (own business),41000,10000,5,125100
+CUST1069,Nisha Gupta,33,Chennai,Salaried,Local School Trust,44000,2000,15,115200
+CUST1070,Deepak Das,26,Hyderabad,Salaried,Reliance Retail,99000,0,10,146800
+CUST1071,Karthik Gupta,46,Ahmedabad,Salaried,Fortis Healthcare,74000,0,4,215600
+CUST1072,Ananya Shetty,37,Kolkata,Salaried,Apollo Hospitals,29000,2500,1,30800
+CUST1073,Swati Pillai,42,Ahmedabad,Salaried,State Government Dept.,75000,0,0,284100
+CUST1074,Swati Verma,25,Jaipur,Salaried,Fortis Healthcare,35000,3500,7,73700
+CUST1075,Aarav Menon,38,Delhi NCR,Salaried,Zomato,85000,12500,12,253200
+CUST1076,Lakshmi Shetty,38,Mumbai,Self-employed,Self (own business),75000,0,12,186700
+CUST1077,Harpreet Verma,37,Bengaluru,Self-employed,Self (own business),47000,0,14,45700
+CUST1078,Imran Bose,30,Delhi NCR,Salaried,Tata Motors,76000,6000,12,101000
+CUST1079,Rahul Reddy,39,Kolkata,Government,Infosys,168000,16500,1,671900
+CUST1080,Nisha Iyer,41,Mumbai,Salaried,HDFC Life,36000,0,6,122500
+CUST1081,Karthik Chopra,42,Pune,Salaried,Mahindra Logistics,40000,0,6,80800
+CUST1082,Suresh Malhotra,29,Kochi,Salaried,Fortis Healthcare,118000,9000,3,374900
+CUST1083,Rohan Pillai,39,Mumbai,Salaried,Reliance Retail,107000,5000,12,189100
+CUST1084,Pooja Gupta,51,Pune,Self-employed,Self (own business),99000,0,9,341100
+CUST1085,Vikram Pillai,29,Mumbai,Salaried,Tata Motors,58000,0,13,159300
+CUST1086,Aarav Verma,29,Kolkata,Salaried,TCS,42000,3000,13,161900
+CUST1087,Deepak Nair,38,Ahmedabad,Salaried,Wipro,63000,9000,8,162400
+CUST1088,Meera Verma,42,Kochi,Government,Reliance Retail,75000,11000,10,258800
+CUST1089,Rahul Bose,47,Hyderabad,Self-employed,Self (own business),66000,0,14,158900
+CUST1090,Aarav Chopra,57,Delhi NCR,Self-employed,Self (own business),57000,4500,5,119900
+CUST1091,Ananya Mehta,29,Kochi,Salaried,Fortis Healthcare,90000,4500,8,212000
+CUST1092,Aditya Gupta,39,Ahmedabad,Salaried,State Government Dept.,38000,0,7,108400
+CUST1093,Meera Sharma,41,Pune,Salaried,Reliance Retail,59000,8500,7,105900
+CUST1094,Divya Shetty,35,Jaipur,Salaried,Tata Motors,83000,6500,13,330900
+CUST1095,Deepak Bose,23,Chennai,Salaried,Reliance Retail,43000,3000,8,49500
+CUST1096,Rohan Shetty,42,Bengaluru,Self-employed,Self (own business),52000,4000,6,57200
+CUST1097,Lakshmi Das,26,Pune,Salaried,HDFC Life,73000,18000,9,83300
+CUST1098,Deepak Shetty,39,Bengaluru,Salaried,Reliance Retail,72000,0,1,281100
+CUST1099,Harpreet Chopra,37,Pune,Salaried,Infosys,42000,0,9,85500
+CUST1100,Vihaan Mehta,26,Kolkata,Salaried,TCS,68000,0,2,121200
+CUST1101,Karthik Nair,40,Kochi,Salaried,Reliance Retail,79000,0,2,314200
+CUST1102,Lakshmi Malhotra,44,Kochi,Salaried,HDFC Life,113000,11000,12,222200
+CUST1103,Arjun Pillai,28,Kochi,Salaried,Infosys,33000,3000,3,125600
+CUST1104,Rahul Reddy,40,Bengaluru,Salaried,HDFC Life,85000,0,5,199100
+CUST1105,Meera Malhotra,62,Kolkata,Salaried,Reliance Retail,85000,8500,1,98200
+CUST1106,Aditya Gupta,45,Chennai,Self-employed,Self (own business),88000,13000,6,164800
+CUST1107,Shweta Mehta,41,Bengaluru,Salaried,TCS,106000,0,1,96800
+CUST1108,Meera Patel,42,Kolkata,Salaried,Fortis Healthcare,56000,2500,9,161700
+CUST1109,Neha Chopra,34,Kolkata,Government,TCS,44000,11000,1,157900
+CUST1110,Aarav Reddy,36,Hyderabad,Self-employed,Self (own business),51000,2500,0,203900
+CUST1111,Pooja Iyer,22,Bengaluru,Self-employed,Self (own business),210000,10500,15,466200
+CUST1112,Suresh Pillai,23,Ahmedabad,Salaried,Zomato,93000,4500,15,361300
+CUST1113,Ananya Joshi,44,Pune,Salaried,Wipro,52000,5000,10,94800
+CUST1114,Amit Shetty,27,Mumbai,Salaried,State Government Dept.,68000,6500,2,99500
+CUST1115,Swati Rao,41,Mumbai,Salaried,Zomato,46000,4500,14,84100
+CUST1116,Lakshmi Chopra,37,Kolkata,Salaried,Infosys,45000,3500,6,57900
+CUST1117,Meera Chopra,30,Pune,Salaried,Infosys,67000,3000,7,196000
+CUST1118,Neha Verma,41,Pune,Salaried,HDFC Life,193000,0,3,387400
+CUST1119,Divya Das,37,Jaipur,Salaried,Fortis Healthcare,25000,0,8,45900
+CUST1120,Manish Bose,42,Jaipur,Salaried,Wipro,47000,7000,12,47200
+CUST1121,Swati Reddy,35,Chennai,Salaried,Apollo Hospitals,44000,0,10,165200
+CUST1122,Arjun Das,42,Kochi,Salaried,Mahindra Logistics,85000,0,15,297600
+CUST1123,Priya Joshi,33,Jaipur,Salaried,Local School Trust,36000,5000,12,71400
+CUST1124,Deepak Gupta,30,Kochi,Salaried,Apollo Hospitals,52000,0,7,180200
+CUST1125,Ritu Chopra,39,Ahmedabad,Salaried,Apollo Hospitals,159000,12500,4,339100
+CUST1126,Pooja Joshi,43,Pune,Salaried,State Government Dept.,35000,8500,3,78600
+CUST1127,Kavya Nair,44,Pune,Salaried,State Government Dept.,191000,0,8,296500
+CUST1128,Swati Joshi,32,Jaipur,Self-employed,Self (own business),30000,0,12,114900
+CUST1129,Swati Shetty,30,Mumbai,Salaried,Mahindra Logistics,124000,18500,2,144900
+CUST1130,Manish Reddy,42,Ahmedabad,Self-employed,Self (own business),82000,4000,3,255200
+CUST1131,Meera Khan,35,Chennai,Self-employed,Self (own business),41000,0,0,19200
+CUST1132,Priya Kulkarni,27,Ahmedabad,Self-employed,Self (own business),25000,1000,4,30000
+CUST1133,Suresh Khan,26,Pune,Salaried,Mahindra Logistics,58000,0,12,150300
+CUST1134,Manish Bose,24,Chennai,Salaried,State Government Dept.,149000,0,8,412300
+CUST1135,Ravi Das,37,Jaipur,Government,Wipro,53000,7500,2,102500
+CUST1136,Harpreet Verma,24,Chennai,Salaried,State Government Dept.,136000,6500,9,141000
+CUST1137,Rohan Gupta,36,Ahmedabad,Salaried,Mahindra Logistics,118000,17500,11,286300
+CUST1138,Aarav Menon,39,Chennai,Government,Infosys,40000,2000,1,146700
+CUST1139,Nisha Gupta,31,Kochi,Self-employed,Self (own business),73000,3500,11,81000
+CUST1140,Sanjay Nair,32,Pune,Salaried,Zomato,68000,3000,1,98100
+CUST1141,Ritu Nair,41,Pune,Salaried,Reliance Retail,70000,5500,10,214500
+CUST1142,Vikram Shetty,26,Delhi NCR,Salaried,Local School Trust,146000,0,8,492400
+CUST1143,Vikram Das,22,Delhi NCR,Salaried,TCS,192000,28500,14,741600
+CUST1144,Swati Menon,40,Jaipur,Salaried,Tata Motors,61000,0,2,196700
+CUST1145,Rohan Bose,31,Delhi NCR,Salaried,Zomato,76000,19000,8,187100
+CUST1146,Rohan Gupta,32,Kolkata,Self-employed,Self (own business),59000,4500,0,152900
+CUST1147,Shweta Malhotra,42,Hyderabad,Government,Zomato,49000,3500,2,129800
+CUST1148,Harpreet Verma,30,Pune,Salaried,Wipro,79000,3500,1,300200
+CUST1149,Rohan Patel,38,Hyderabad,Salaried,Local School Trust,103000,15000,4,179000
+CUST1150,Kavya Pillai,41,Bengaluru,Salaried,Apollo Hospitals,99000,24500,3,335000
+CUST1151,Vihaan Kulkarni,31,Hyderabad,Salaried,State Government Dept.,43000,2000,14,164100
+CUST1152,Sanjay Kulkarni,40,Jaipur,Self-employed,Self (own business),96000,0,11,50300
+CUST1153,Swati Bose,36,Pune,Salaried,Zomato,65000,0,6,173800
+CUST1154,Vihaan Joshi,31,Hyderabad,Salaried,Wipro,125000,0,6,69200
+CUST1155,Pooja Singh,34,Hyderabad,Self-employed,Self (own business),86000,0,10,272200
+CUST1156,Rahul Nair,44,Bengaluru,Self-employed,Self (own business),59000,0,8,192000
+CUST1157,Karthik Sharma,42,Delhi NCR,Salaried,HDFC Life,99000,0,10,35400
+CUST1158,Ritu Verma,36,Jaipur,Salaried,TCS,127000,0,2,261800
+CUST1159,Pooja Patel,33,Kolkata,Self-employed,Self (own business),93000,23000,7,353200
+CUST1160,Arjun Bose,34,Mumbai,Salaried,Infosys,77000,19000,15,264400
+CUST1161,Divya Bose,40,Pune,Salaried,TCS,69000,0,10,175900
+CUST1162,Lakshmi Pillai,52,Jaipur,Salaried,Fortis Healthcare,43000,2000,10,73500
+CUST1163,Meera Rao,26,Kochi,Salaried,Apollo Hospitals,40000,2000,3,129300
+CUST1164,Ritu Singh,42,Ahmedabad,Salaried,State Government Dept.,118000,29500,7,216000
+CUST1165,Kavya Patel,41,Delhi NCR,Self-employed,Self (own business),90000,9000,13,131000
+CUST1166,Sanjay Chopra,28,Pune,Salaried,TCS,65000,0,2,41900
+CUST1167,Vikram Nair,30,Jaipur,Salaried,Infosys,68000,5000,10,188900
+CUST1168,Swati Iyer,34,Chennai,Salaried,Mahindra Logistics,107000,10500,9,171300
+CUST1169,Karthik Chopra,33,Hyderabad,Salaried,TCS,43000,0,11,147300
+CUST1170,Pooja Gupta,31,Ahmedabad,Salaried,Local School Trust,81000,4000,0,206800
+CUST1171,Aarav Khan,37,Chennai,Self-employed,Self (own business),43000,2000,9,159500
+CUST1172,Swati Nair,31,Kochi,Salaried,Zomato,74000,0,12,41200
+CUST1173,Aditya Rao,37,Hyderabad,Self-employed,Self (own business),52000,0,12,96300
+CUST1174,Arjun Joshi,24,Kochi,Salaried,Mahindra Logistics,32000,2500,2,114100
+CUST1175,Sanjay Reddy,34,Chennai,Salaried,State Government Dept.,46000,0,13,96400
+CUST1176,Imran Rao,47,Pune,Salaried,Tata Motors,77000,3500,13,54600
+CUST1177,Fatima Das,34,Mumbai,Self-employed,Self (own business),101000,15000,7,178000
+CUST1178,Imran Das,27,Hyderabad,Salaried,Wipro,65000,0,8,89100
+CUST1179,Ritu Verma,33,Bengaluru,Salaried,Wipro,65000,9500,12,147500
+CUST1180,Amit Kulkarni,29,Pune,Salaried,Apollo Hospitals,77000,19000,1,147300
+CUST1181,Swati Joshi,48,Kochi,Salaried,Apollo Hospitals,85000,0,12,248600
+CUST1182,Sneha Sharma,39,Delhi NCR,Salaried,Wipro,62000,0,14,209400
+CUST1183,Kavya Patel,32,Hyderabad,Government,Apollo Hospitals,93000,0,12,208100
+CUST1184,Ritu Joshi,36,Hyderabad,Salaried,Tata Motors,74000,3500,5,43100
+CUST1185,Fatima Singh,29,Delhi NCR,Salaried,Tata Motors,69000,17000,4,81000
+CUST1186,Suresh Malhotra,39,Bengaluru,Salaried,Zomato,66000,0,2,63000
+CUST1187,Meera Pillai,43,Kochi,Self-employed,Self (own business),136000,20000,14,383500
+CUST1188,Swati Joshi,29,Bengaluru,Government,State Government Dept.,194000,15500,2,394700
+CUST1189,Pooja Iyer,37,Delhi NCR,Salaried,Local School Trust,102000,5000,2,147700
+CUST1190,Priya Das,29,Pune,Salaried,Zomato,197000,0,2,507300
+CUST1191,Pooja Shetty,31,Mumbai,Salaried,State Government Dept.,43000,6000,6,64000
+CUST1192,Vihaan Bose,31,Pune,Salaried,Tata Motors,25000,0,2,54100
+CUST1193,Deepak Bose,37,Kolkata,Salaried,Local School Trust,45000,0,5,74000
+CUST1194,Kavya Joshi,51,Kochi,Government,Infosys,78000,7500,10,42400
+CUST1195,Arjun Mehta,31,Kochi,Salaried,Wipro,106000,10500,10,63700
+CUST1196,Arjun Menon,39,Bengaluru,Self-employed,Self (own business),42000,3000,2,60700
+CUST1197,Amit Nair,50,Jaipur,Salaried,TCS,34000,2500,13,74100
+CUST1198,Suresh Singh,32,Delhi NCR,Salaried,State Government Dept.,119000,5500,6,135400
+CUST1199,Arjun Patel,46,Jaipur,Salaried,Local School Trust,28000,0,1,76900
+CUST1200,Lakshmi Menon,45,Bengaluru,Government,Wipro,62000,0,5,209300
+CUST1201,Ritu Bose,31,Mumbai,Self-employed,Self (own business),29000,0,13,47700
+CUST1202,Lakshmi Das,36,Kolkata,Self-employed,Self (own business),66000,9500,7,150200
+CUST1203,Ravi Singh,40,Delhi NCR,Salaried,Zomato,52000,7500,14,104400
+CUST1204,Fatima Rao,34,Ahmedabad,Salaried,Wipro,38000,3500,6,124000
+CUST1205,Vihaan Chopra,40,Delhi NCR,Salaried,Local School Trust,70000,3500,3,205200
+CUST1206,Arjun Reddy,27,Bengaluru,Salaried,Reliance Retail,94000,0,14,343000
+CUST1207,Aditya Gupta,46,Kolkata,Salaried,Tata Motors,30000,3000,0,55000
+CUST1208,Manish Menon,30,Pune,Salaried,Tata Motors,78000,6000,7,31500
+CUST1209,Vikram Nair,36,Bengaluru,Government,Infosys,143000,11000,9,528200
+CUST1210,Nisha Chopra,36,Kolkata,Salaried,Mahindra Logistics,119000,0,0,434500
+CUST1211,Amit Nair,50,Jaipur,Salaried,Fortis Healthcare,185000,0,13,131600
+CUST1212,Rohan Iyer,43,Hyderabad,Salaried,Apollo Hospitals,58000,2500,14,30800
+CUST1213,Lakshmi Shetty,46,Mumbai,Self-employed,Self (own business),91000,13500,7,269200
+CUST1214,Lakshmi Kulkarni,41,Hyderabad,Salaried,Mahindra Logistics,40000,0,13,39700
+CUST1215,Priya Reddy,22,Jaipur,Self-employed,Self (own business),112000,28000,0,195400
+CUST1216,Priya Mehta,22,Mumbai,Salaried,Tata Motors,36000,3500,2,56700
+CUST1217,Nisha Pillai,41,Delhi NCR,Self-employed,Self (own business),57000,0,4,26400
+CUST1218,Amit Bose,36,Kolkata,Salaried,Zomato,140000,0,5,462300
+CUST1219,Vihaan Das,24,Hyderabad,Salaried,Infosys,149000,22000,6,533000
+CUST1220,Fatima Menon,35,Jaipur,Salaried,State Government Dept.,28000,1000,8,12100
+CUST1221,Priya Iyer,35,Delhi NCR,Salaried,Reliance Retail,80000,4000,3,260600
+CUST1222,Ritu Bose,35,Ahmedabad,Salaried,Tata Motors,25000,2500,5,53300
+CUST1223,Rahul Reddy,41,Ahmedabad,Salaried,TCS,34000,8500,13,85900
+CUST1224,Arjun Joshi,28,Pune,Self-employed,Self (own business),79000,19500,2,119500
+CUST1225,Lakshmi Verma,27,Bengaluru,Salaried,Fortis Healthcare,51000,7500,14,81600
+CUST1226,Lakshmi Verma,43,Chennai,Salaried,Zomato,64000,5000,1,36900
+CUST1227,Fatima Khan,40,Mumbai,Salaried,Wipro,40000,3000,14,17100
+CUST1228,Priya Menon,29,Kochi,Salaried,Infosys,50000,4000,4,140600
+CUST1229,Meera Reddy,27,Kochi,Government,Wipro,62000,4500,11,109900
+CUST1230,Rohan Sharma,26,Bengaluru,Salaried,State Government Dept.,50000,0,12,184000
+CUST1231,Deepak Bose,36,Hyderabad,Salaried,Mahindra Logistics,176000,8500,9,504700
+CUST1232,Rohan Nair,37,Pune,Government,State Government Dept.,46000,0,5,166700
+CUST1233,Vikram Joshi,34,Delhi NCR,Salaried,Fortis Healthcare,62000,0,2,144700
+CUST1234,Swati Khan,42,Bengaluru,Salaried,Tata Motors,89000,4000,7,66600
+CUST1235,Manish Chopra,31,Mumbai,Salaried,Tata Motors,50000,0,11,101400
+CUST1236,Lakshmi Reddy,22,Pune,Government,Reliance Retail,57000,0,12,227900
+CUST1237,Kavya Verma,46,Kochi,Self-employed,Self (own business),31000,7500,2,23600
+CUST1238,Meera Bose,34,Jaipur,Salaried,Tata Motors,150000,0,4,532200
+CUST1239,Nisha Nair,38,Ahmedabad,Self-employed,Self (own business),88000,0,1,297100
+CUST1240,Suresh Khan,44,Delhi NCR,Salaried,Fortis Healthcare,308000,15000,7,486700
+CUST1241,Swati Reddy,28,Chennai,Government,HDFC Life,62000,3000,8,47300
+CUST1242,Aditya Rao,37,Bengaluru,Salaried,Mahindra Logistics,29000,7000,4,27000
+CUST1243,Amit Pillai,24,Mumbai,Salaried,Infosys,45000,3500,2,21000
+CUST1244,Harpreet Singh,27,Kochi,Salaried,Apollo Hospitals,47000,2000,0,100700
+CUST1245,Harpreet Das,43,Kolkata,Salaried,HDFC Life,153000,7500,12,214200
+CUST1246,Suresh Bose,47,Ahmedabad,Salaried,State Government Dept.,65000,0,14,68500
+CUST1247,Swati Joshi,29,Delhi NCR,Salaried,Apollo Hospitals,68000,5000,4,211700
+CUST1248,Ananya Gupta,40,Kolkata,Salaried,TCS,141000,0,8,276800
+CUST1249,Arjun Menon,34,Kochi,Salaried,Apollo Hospitals,39000,0,7,150600
+CUST1250,Shweta Pillai,24,Delhi NCR,Government,HDFC Life,42000,3000,5,90000
+CUST1251,Ravi Das,51,Kolkata,Salaried,Infosys,105000,15500,2,398700
+CUST1252,Imran Pillai,40,Delhi NCR,Salaried,Infosys,32000,0,1,42900
+CUST1253,Arjun Shetty,32,Mumbai,Salaried,TCS,47000,7000,13,37300
+CUST1254,Nisha Menon,29,Delhi NCR,Salaried,Infosys,49000,3500,12,23900
+CUST1255,Neha Das,29,Pune,Salaried,Apollo Hospitals,67000,5000,14,209500
+CUST1256,Karthik Patel,35,Ahmedabad,Salaried,Tata Motors,75000,0,10,177200
+CUST1257,Imran Malhotra,28,Jaipur,Salaried,Apollo Hospitals,58000,0,1,27100
+CUST1258,Vikram Chopra,42,Jaipur,Salaried,State Government Dept.,49000,3500,4,124600
+CUST1259,Shweta Malhotra,28,Delhi NCR,Salaried,Wipro,85000,6500,12,337000
+CUST1260,Pooja Joshi,42,Jaipur,Self-employed,Self (own business),69000,3000,15,201600
+CUST1261,Priya Joshi,40,Pune,Salaried,Apollo Hospitals,28000,0,9,90900
+CUST1262,Lakshmi Chopra,40,Chennai,Self-employed,Self (own business),47000,0,7,139500
+CUST1263,Fatima Malhotra,22,Ahmedabad,Salaried,Wipro,45000,0,7,18700
+CUST1264,Imran Sharma,36,Kolkata,Government,Tata Motors,29000,0,13,24900
+CUST1265,Fatima Malhotra,28,Kolkata,Self-employed,Self (own business),75000,7500,1,218300
+CUST1266,Ananya Chopra,22,Jaipur,Salaried,Apollo Hospitals,91000,22500,10,349400
+CUST1267,Ananya Shetty,26,Delhi NCR,Salaried,Zomato,64000,16000,8,163600
+CUST1268,Rahul Shetty,36,Chennai,Salaried,HDFC Life,47000,0,9,148200
+CUST1269,Ananya Chopra,32,Delhi NCR,Self-employed,Self (own business),43000,6000,8,58600
+CUST1270,Sneha Menon,31,Delhi NCR,Salaried,Wipro,109000,27000,9,49600
+CUST1271,Priya Bose,26,Chennai,Government,Fortis Healthcare,100000,0,15,109100
+CUST1272,Shweta Shetty,47,Chennai,Self-employed,Self (own business),86000,4000,4,60500
+CUST1273,Manish Iyer,29,Jaipur,Self-employed,Self (own business),25000,0,7,66500
+CUST1274,Ananya Chopra,34,Pune,Salaried,Zomato,88000,8500,4,28000
+CUST1275,Kavya Chopra,31,Kolkata,Salaried,Zomato,79000,0,6,244600
+CUST1276,Harpreet Iyer,34,Pune,Salaried,Zomato,69000,3000,7,157300
+CUST1277,Shweta Khan,38,Ahmedabad,Self-employed,Self (own business),118000,0,5,443100
+CUST1278,Vikram Chopra,32,Bengaluru,Salaried,Fortis Healthcare,78000,7500,9,276400
+CUST1279,Shweta Joshi,32,Chennai,Salaried,State Government Dept.,51000,0,15,183100
+CUST1280,Meera Mehta,32,Hyderabad,Salaried,TCS,80000,20000,10,72000
+CUST1281,Deepak Khan,52,Mumbai,Salaried,Fortis Healthcare,76000,3500,10,245100
+CUST1282,Suresh Malhotra,33,Ahmedabad,Salaried,Apollo Hospitals,102000,0,10,63300
+CUST1283,Karthik Chopra,32,Delhi NCR,Self-employed,Self (own business),120000,0,7,39000
+CUST1284,Nisha Mehta,27,Delhi NCR,Salaried,Reliance Retail,25000,3500,0,31600
+CUST1285,Vihaan Patel,33,Kolkata,Salaried,Reliance Retail,25000,0,5,45000
+CUST1286,Deepak Patel,49,Chennai,Salaried,Tata Motors,66000,3000,7,73300
+CUST1287,Meera Malhotra,34,Delhi NCR,Salaried,Apollo Hospitals,77000,0,15,238800
+CUST1288,Nisha Gupta,22,Kochi,Self-employed,Self (own business),100000,0,2,224400
+CUST1289,Aditya Pillai,42,Pune,Salaried,Infosys,74000,5500,6,179000
+CUST1290,Swati Rao,45,Kolkata,Salaried,TCS,31000,2000,6,91500
+CUST1291,Meera Iyer,32,Kolkata,Salaried,Wipro,78000,19500,13,155200
+CUST1292,Sanjay Das,54,Mumbai,Salaried,Apollo Hospitals,90000,13500,8,298800
+CUST1293,Vihaan Verma,37,Delhi NCR,Self-employed,Self (own business),72000,0,2,165700
+CUST1294,Shweta Chopra,29,Mumbai,Salaried,Reliance Retail,52000,0,13,50200
+CUST1295,Priya Menon,29,Kolkata,Salaried,Apollo Hospitals,100000,10000,12,59600
+CUST1296,Karthik Kulkarni,32,Pune,Government,Wipro,68000,17000,12,153400
+CUST1297,Amit Sharma,38,Mumbai,Self-employed,Self (own business),84000,0,9,169100
+CUST1298,Neha Menon,31,Hyderabad,Self-employed,Self (own business),111000,11000,7,222400
+CUST1299,Shweta Patel,28,Mumbai,Salaried,Zomato,57000,0,13,146700
+CUST1300,Manish Singh,39,Pune,Government,TCS,52000,0,1,101400

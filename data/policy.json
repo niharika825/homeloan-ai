@@ -1,0 +1,78 @@
+{
+  "policy_name": "Sample Home Loan Credit Policy v1.0 (FICTIONAL - for demo only)",
+  "interest_rate_for_emi_calc": 0.0875,
+  "required_documents": [
+    "PAN card",
+    "Aadhaar card",
+    "Income proof",
+    "Bank statements (6 months)",
+    "Sale agreement",
+    "Property title deeds",
+    "Approved building plan"
+  ],
+  "rules": [
+    {
+      "id": "P-1.1",
+      "name": "Applicant age",
+      "text": "Age must be between 21 and 60 at application, and age plus loan tenure must not exceed 70.",
+      "min_age": 21,
+      "max_age": 60,
+      "max_age_at_maturity": 70
+    },
+    {
+      "id": "P-2.1",
+      "name": "Minimum income",
+      "text": "Verified gross monthly income must be at least Rs 25,000.",
+      "min_income": 25000
+    },
+    {
+      "id": "P-3.1",
+      "name": "Credit score",
+      "text": "Credit bureau score of 750 or above is preferred. Below 700 needs senior review.",
+      "preferred_score": 750,
+      "min_score": 700
+    },
+    {
+      "id": "P-4.1",
+      "name": "FOIR (fixed obligations to income)",
+      "text": "Total EMIs including the new loan should not exceed 50% of verified monthly income. 40% or below is preferred.",
+      "max_foir": 0.5,
+      "preferred_foir": 0.4
+    },
+    {
+      "id": "P-5.1",
+      "name": "Loan-to-value (LTV)",
+      "text": "Maximum LTV is 90% up to Rs 30 lakh, 80% up to Rs 75 lakh and 75% above Rs 75 lakh (illustrative, aligned to RBI LTV norms).",
+      "ltv_caps": [
+        [
+          3000000,
+          0.9
+        ],
+        [
+          7500000,
+          0.8
+        ],
+        [
+          null,
+          0.75
+        ]
+      ]
+    },
+    {
+      "id": "P-6.1",
+      "name": "Tenure",
+      "text": "Maximum loan tenure is 30 years.",
+      "max_tenure": 30
+    },
+    {
+      "id": "P-7.1",
+      "name": "Property charge check",
+      "text": "The property must have no existing charge registered in the central collateral registry (CERSAI)."
+    },
+    {
+      "id": "P-8.1",
+      "name": "Income consistency",
+      "text": "Income on the income proof should be within 15% of income declared on the application."
+    }
+  ]
+}
